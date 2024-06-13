@@ -76,29 +76,29 @@ Examples:
 
 | Model | Pre-Trained Model | Not Pre-Trained Model | General Model | Specialized Model | Sequence-based Model | Structure-based Model | Year | Link | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SVM |  | √ | √ |  | √ |  |  |  | Machine Learning |
-| RF |  | √ | √ |  | √ |  |  |  | Machine Learning |
-| AdaBoost |  | √ | √ |  | √ |  |  |  | Machine Learning |
-| CNN |  | √ | √ |  | √ |  |  |  | Deep Learning |
-| LSTM |  | √ | √ |  | √ |  |  |  | Deep Learning |
-| Vanilla Transformer |  | √ | √ |  | √ |  |  |  | Deep Learning |
-| FGBERT | √ |  | √ |  | √ |  | 2024 | https://arxiv.org/abs/2402.16901 | Metagenomic pre-trained model for functional prediction. |
-| DNABERT2 | √ |  | √ |  | √ |  | 2023 | https://github.com/MAGICS-LAB/DNABERT_2 | Genomic pre-trained model trained on multi-species genomes. |
-| HyenaDNA | √ |  | √ |  | √ |  | 2023 | https://github.com/HazyResearch/hyena-dna | Genomic pre-trained model trained over human reference genome. |
-| Nucleotide Transformer | √ |  | √ |  | √ |  | 2023 | https://github.com/instadeepai/nucleotide-transformer | Genomic pre-trained model trained on diverse human genomes. |
-| CNN-MGP |  | √ |  | √ | √ |  | 2019 | https://github.com/rachidelfermi/cnn-mgp | Gene prediction using CNN network. |
-| PlasGUN |  | √ |  | √ | √ |  | 2020 | https://github.com/zhenchengfang/PlasGUN | Gene prediction tool using multiple CNN network. |
-| PLM-ARG | √ |  |  | √ | √ |  | 2023 | https://github.com/Junwu302/PLM-ARG | ARG identification framework using a pretrained protein language model. |
-| DeepARG |  | √ |  | √ | √ |  | 2018 | https://github.com/gaarangoa/deeparg | ARG prediction software by alignment and metagenomic sequences. |
-| RGI |  | √ |  | √ | √ |  | 2023 | https://github.com/arpcard/rgi | ARG prediction tools for annotating genes from scratch. |
-| DeepVirFinder |  | √ |  | √ | √ |  | 2020 | https://github.com/jessieren/DeepVirFinder | Viral sequences prediction with reference and alignment-free CNNs. |
-| ViBE | √ |  |  | √ | √ |  | 2022 | https://github.com/DMnBI/ViBE | Eukaryotic viruses identification with hierarchical BERT model. |
-| ViraMiner |  | √ |  | √ | √ |  | 2019 | https://github.com/NeuroCSUT/ViraMiner | Viral genomes identification in human samples. |
-| DeepVF |  | √ |  | √ | √ |  | 2021 | http://deepvf.erc.monash.edu/ | Viral factor identification with hybrid framework using stacking strategy. |
-| HyperVR |  | √ |  | √ | √ |  | 2023 | https://github.com/jiboyalab/HyperVR | Viral factors and mixing of ARG simultaneous prediction. |
-| CLEAN |  | √ |  | √ | √ |  | 2023 | https://github.com/tttianhao/CLEAN | Enzyme function prediction using contrastive learning. |
-| DeepMicrobes |  | √ |  | √ | √ |  | 2020 | https://github.com/MicrobeLab/DeepMicrobes | Taxonomic classification for metagenomics with self-attention model. |
-| PopPhy-CNN |  | √ |  | √ |  | √ | 2020 | https://github.com/YDaiLab/PopPhy-CNN | Host Phenotypes prediction by systematic tree embedded CNN network. |
+| SVM |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Machine Learning |
+| RF |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Machine Learning |
+| AdaBoost |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Machine Learning |
+| CNN |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Deep Learning |
+| LSTM |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Deep Learning |
+| Vanilla Transformer |  | &#10003; | &#10003; |  | &#10003; |  |  |  | Deep Learning |
+| FGBERT | &#10003; |  | &#10003; |  | &#10003; |  | 2024 | https://arxiv.org/abs/2402.16901 | Metagenomic pre-trained model for functional prediction. |
+| DNABERT2 | &#10003; |  | &#10003; |  | &#10003; |  | 2023 | https://github.com/MAGICS-LAB/DNABERT_2 | Genomic pre-trained model trained on multi-species genomes. |
+| HyenaDNA | &#10003; |  | &#10003; |  | &#10003; |  | 2023 | https://github.com/HazyResearch/hyena-dna | Genomic pre-trained model trained over human reference genome. |
+| Nucleotide Transformer | &#10003; |  | &#10003; |  | &#10003; |  | 2023 | https://github.com/instadeepai/nucleotide-transformer | Genomic pre-trained model trained on diverse human genomes. |
+| CNN-MGP |  | &#10003; |  | &#10003; | &#10003; |  | 2019 | https://github.com/rachidelfermi/cnn-mgp | Gene prediction using CNN network. |
+| PlasGUN |  | &#10003; |  | &#10003; | &#10003; |  | 2020 | https://github.com/zhenchengfang/PlasGUN | Gene prediction tool using multiple CNN network. |
+| PLM-ARG | &#10003; |  |  | &#10003; | &#10003; |  | 2023 | https://github.com/Junwu302/PLM-ARG | ARG identification framework using a pretrained protein language model. |
+| DeepARG |  | &#10003; |  | &#10003; | &#10003; |  | 2018 | https://github.com/gaarangoa/deeparg | ARG prediction software by alignment and metagenomic sequences. |
+| RGI |  | &#10003; |  | &#10003; | &#10003; |  | 2023 | https://github.com/arpcard/rgi | ARG prediction tools for annotating genes from scratch. |
+| DeepVirFinder |  | &#10003; |  | &#10003; | &#10003; |  | 2020 | https://github.com/jessieren/DeepVirFinder | Viral sequences prediction with reference and alignment-free CNNs. |
+| ViBE | &#10003; |  |  | &#10003; | &#10003; |  | 2022 | https://github.com/DMnBI/ViBE | Eukaryotic viruses identification with hierarchical BERT model. |
+| ViraMiner |  | &#10003; |  | &#10003; | &#10003; |  | 2019 | https://github.com/NeuroCSUT/ViraMiner | Viral genomes identification in human samples. |
+| DeepVF |  | &#10003; |  | &#10003; | &#10003; |  | 2021 | http://deepvf.erc.monash.edu/ | Viral factor identification with hybrid framework using stacking strategy. |
+| HyperVR |  | &#10003; |  | &#10003; | &#10003; |  | 2023 | https://github.com/jiboyalab/HyperVR | Viral factors and mixing of ARG simultaneous prediction. |
+| CLEAN |  | &#10003; |  | &#10003; | &#10003; |  | 2023 | https://github.com/tttianhao/CLEAN | Enzyme function prediction using contrastive learning. |
+| DeepMicrobes |  | &#10003; |  | &#10003; | &#10003; |  | 2020 | https://github.com/MicrobeLab/DeepMicrobes | Taxonomic classification for metagenomics with self-attention model. |
+| PopPhy-CNN |  | &#10003; |  | &#10003; |  | &#10003; | 2020 | https://github.com/YDaiLab/PopPhy-CNN | Host Phenotypes prediction by systematic tree embedded CNN network. |
 
 
 
