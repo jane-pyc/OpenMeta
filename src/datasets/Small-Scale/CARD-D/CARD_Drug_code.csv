@@ -1,0 +1,1966 @@
+Model ID,Drug Class
+2,cephalosporin
+5,diaminopyrimidine antibiotic
+7,cephalosporin
+10,penam
+20,cephamycin
+24,fusidane antibiotic
+25,cephalosporin
+27,lincosamide antibiotic
+31,cephalosporin
+35,phosphonic acid antibiotic
+38,aminoglycoside antibiotic
+39,aminoglycoside antibiotic
+40,fluoroquinolone antibiotic
+41,aminoglycoside antibiotic
+46,cephamycin
+50,carbapenem
+51,aminoglycoside antibiotic
+58,fluoroquinolone antibiotic
+60,fluoroquinolone antibiotic
+63,aminoglycoside antibiotic
+64,cephamycin
+69,aminoglycoside antibiotic
+71,fluoroquinolone antibiotic
+75,fusidane antibiotic
+88,cephamycin
+92,cephalosporin
+94,cephamycin
+95,cephamycin
+98,cephamycin
+99,fluoroquinolone antibiotic
+105,penam
+106,phenicol antibiotic
+110,aminoglycoside antibiotic
+114,diaminopyrimidine antibiotic
+116,fluoroquinolone antibiotic
+120,aminoglycoside antibiotic
+124,carbapenem
+128,macrolide antibiotic
+129,phosphonic acid antibiotic
+130,cephalosporin
+131,cephalosporin
+133,rifamycin antibiotic
+134,rifamycin antibiotic
+135,carbapenem
+136,cephamycin
+137,aminoglycoside antibiotic
+139,fluoroquinolone antibiotic
+140,aminoglycoside antibiotic
+143,carbapenem
+149,aminoglycoside antibiotic
+150,phenicol antibiotic
+156,aminoglycoside antibiotic
+157,diaminopyrimidine antibiotic
+43,tetracycline antibiotic
+17,tetracycline antibiotic
+142,tetracycline antibiotic
+49,peptide antibiotic
+167,cephamycin
+138,phenicol antibiotic
+173,rifamycin antibiotic
+174,cephamycin
+175,cephalosporin
+176,cephamycin
+179,fluoroquinolone antibiotic
+189,cephalosporin
+192,cephalosporin
+195,cephalosporin
+197,cephalosporin
+199,cephalosporin
+205,aminoglycoside antibiotic
+206,phosphonic acid antibiotic
+208,cephamycin
+209,aminoglycoside antibiotic
+215,peptide antibiotic
+218,aminoglycoside antibiotic
+221,cephamycin
+225,cephalosporin
+232,carbapenem
+234,fluoroquinolone antibiotic
+245,phenicol antibiotic
+246,cephalosporin
+251,aminoglycoside antibiotic
+252,aminoglycoside antibiotic
+256,cephamycin
+261,cephamycin
+263,diaminopyrimidine antibiotic
+266,fluoroquinolone antibiotic
+268,cephamycin
+269,cephamycin
+271,cephamycin
+272,fluoroquinolone antibiotic
+278,carbapenem
+279,cephalosporin
+280,cephalosporin
+281,cephamycin
+282,cephalosporin
+283,cephamycin
+288,cephamycin
+291,aminoglycoside antibiotic
+294,cephamycin
+297,cephamycin
+300,aminoglycoside antibiotic
+301,cephamycin
+304,carbapenem
+307,cephalosporin
+308,cephamycin
+309,cephamycin
+311,carbapenem
+316,cephalosporin
+321,cephalosporin
+323,aminoglycoside antibiotic
+324,fluoroquinolone antibiotic
+250,phenicol antibiotic
+299,cephalosporin
+329,cephalosporin
+333,penam
+340,cephamycin
+345,peptide antibiotic
+346,fluoroquinolone antibiotic
+353,fluoroquinolone antibiotic
+354,fluoroquinolone antibiotic
+358,fluoroquinolone antibiotic
+360,aminoglycoside antibiotic
+362,cephalosporin
+364,cephamycin
+367,cephalosporin
+368,penam
+372,fluoroquinolone antibiotic
+375,fluoroquinolone antibiotic
+376,lincosamide antibiotic
+380,cephalosporin
+381,fluoroquinolone antibiotic
+382,fluoroquinolone antibiotic
+384,aminoglycoside antibiotic
+387,aminocoumarin antibiotic
+388,fluoroquinolone antibiotic
+393,fluoroquinolone antibiotic
+396,sulfonamide antibiotic
+403,diaminopyrimidine antibiotic
+410,aminoglycoside antibiotic
+411,fluoroquinolone antibiotic
+417,fluoroquinolone antibiotic
+420,cephalosporin
+426,aminoglycoside antibiotic
+444,aminoglycoside antibiotic
+446,phenicol antibiotic
+448,diaminopyrimidine antibiotic
+452,fluoroquinolone antibiotic
+459,cephalosporin
+460,cephamycin
+463,cephalosporin
+466,cephalosporin
+467,penam
+474,diaminopyrimidine antibiotic
+477,phenicol antibiotic
+478,aminoglycoside antibiotic
+484,fluoroquinolone antibiotic
+458,tetracycline antibiotic
+402,tetracycline antibiotic
+395,penam
+473,macrolide antibiotic
+486,phenicol antibiotic
+487,macrolide antibiotic
+495,cephamycin
+389,tetracycline antibiotic
+498,fluoroquinolone antibiotic
+501,aminoglycoside antibiotic
+502,aminoglycoside antibiotic
+503,cephalosporin
+507,peptide antibiotic
+508,tetracycline antibiotic
+510,cephalosporin
+511,diaminopyrimidine antibiotic
+512,cephalosporin
+513,penam
+517,fluoroquinolone antibiotic
+524,diaminopyrimidine antibiotic
+525,cephamycin
+532,cephalosporin
+533,penam
+539,fluoroquinolone antibiotic
+540,tetracycline antibiotic
+544,aminoglycoside antibiotic
+547,rifamycin antibiotic
+548,fluoroquinolone antibiotic
+550,cephamycin
+551,cephalosporin
+552,fluoroquinolone antibiotic
+558,fluoroquinolone antibiotic
+567,cephalosporin
+568,cephalosporin
+574,aminoglycoside antibiotic
+575,aminoglycoside antibiotic
+577,fluoroquinolone antibiotic
+581,fluoroquinolone antibiotic
+584,aminoglycoside antibiotic
+590,carbapenem
+591,cephalosporin
+594,fluoroquinolone antibiotic
+598,diaminopyrimidine antibiotic
+601,diaminopyrimidine antibiotic
+603,phosphonic acid antibiotic
+606,carbapenem
+609,tetracycline antibiotic
+618,disinfecting agents and antiseptics
+625,fluoroquinolone antibiotic
+628,phenicol antibiotic
+636,cephamycin
+641,penam
+642,aminoglycoside antibiotic
+645,penam
+650,aminoglycoside antibiotic
+652,tetracycline antibiotic
+531,nucleoside antibiotic
+640,tetracycline antibiotic
+516,peptide antibiotic
+492,phenicol antibiotic
+653,aminoglycoside antibiotic
+654,diaminopyrimidine antibiotic
+658,cephamycin
+659,aminoglycoside antibiotic
+664,cephamycin
+666,cephalosporin
+668,cephalosporin
+670,carbapenem
+671,cephalosporin
+672,cephamycin
+676,aminoglycoside antibiotic
+680,cephamycin
+682,fluoroquinolone antibiotic
+683,cephamycin
+687,aminoglycoside antibiotic
+689,cephalosporin
+694,cephalosporin
+695,cephamycin
+699,fluoroquinolone antibiotic
+702,cephalosporin
+703,phenicol antibiotic
+705,cephamycin
+706,aminoglycoside antibiotic
+708,cephalosporin
+710,diaminopyrimidine antibiotic
+712,phenicol antibiotic
+713,cephalosporin
+714,diaminopyrimidine antibiotic
+716,fluoroquinolone antibiotic
+717,cephalosporin
+719,cephamycin
+724,aminoglycoside antibiotic
+726,penam
+729,cephalosporin
+730,aminoglycoside antibiotic
+736,rifamycin antibiotic
+738,aminoglycoside antibiotic
+740,fluoroquinolone antibiotic
+742,aminoglycoside antibiotic
+743,rifamycin antibiotic
+745,cephamycin
+746,aminoglycoside antibiotic
+747,fluoroquinolone antibiotic
+754,cephalosporin
+757,cephamycin
+762,cephalosporin
+765,fluoroquinolone antibiotic
+771,cephamycin
+775,cephamycin
+780,penam
+781,fluoroquinolone antibiotic
+784,aminoglycoside antibiotic
+787,diaminopyrimidine antibiotic
+790,cephamycin
+796,rifamycin antibiotic
+799,cephalosporin
+800,cephalosporin
+801,fluoroquinolone antibiotic
+802,fluoroquinolone antibiotic
+803,carbapenem
+804,tetracycline antibiotic
+809,lincosamide antibiotic
+810,penam
+812,cephamycin
+817,cephalosporin
+819,cephalosporin
+820,aminocoumarin antibiotic
+822,fluoroquinolone antibiotic
+774,tetracycline antibiotic
+827,fluoroquinolone antibiotic
+833,cephamycin
+834,phosphonic acid antibiotic
+835,aminoglycoside antibiotic
+838,cephalosporin
+839,cephamycin
+840,cephamycin
+841,cephalosporin
+843,fluoroquinolone antibiotic
+844,cephamycin
+847,cephalosporin
+852,fluoroquinolone antibiotic
+854,cephamycin
+3302,tetracycline antibiotic
+858,carbapenem
+864,cephamycin
+875,diaminopyrimidine antibiotic
+878,cephalosporin
+880,aminoglycoside antibiotic
+884,cephalosporin
+886,carbapenem
+889,cephamycin
+891,fluoroquinolone antibiotic
+892,aminoglycoside antibiotic
+894,cephamycin
+896,cephalosporin
+903,aminoglycoside antibiotic
+904,aminoglycoside antibiotic
+905,cephalosporin
+906,penam
+907,phenicol antibiotic
+908,cephalosporin
+911,cephamycin
+914,aminoglycoside antibiotic
+925,aminoglycoside antibiotic
+928,macrolide antibiotic
+948,penam
+938,fluoroquinolone antibiotic
+939,cephalosporin
+944,peptide antibiotic
+946,fluoroquinolone antibiotic
+949,cephalosporin
+952,sulfonamide antibiotic
+954,aminoglycoside antibiotic
+963,cephamycin
+967,aminoglycoside antibiotic
+870,tetracycline antibiotic
+910,rifamycin antibiotic
+945,tetracycline antibiotic
+900,tetracycline antibiotic
+957,tetracycline antibiotic
+842,peptide antibiotic
+882,penam
+971,phenicol antibiotic
+972,cephamycin
+974,lincosamide antibiotic
+975,fluoroquinolone antibiotic
+976,cephalosporin
+987,cephalosporin
+991,macrolide antibiotic
+993,aminoglycoside antibiotic
+996,cephamycin
+1000,aminoglycoside antibiotic
+1002,aminoglycoside antibiotic
+1009,carbapenem
+1013,aminoglycoside antibiotic
+1017,cephalosporin
+1018,aminoglycoside antibiotic
+1021,cephalosporin
+1024,aminoglycoside antibiotic
+1029,cephamycin
+1031,aminoglycoside antibiotic
+1034,fluoroquinolone antibiotic
+1037,phenicol antibiotic
+1038,phenicol antibiotic
+1039,diaminopyrimidine antibiotic
+1044,cephalosporin
+1047,phenicol antibiotic
+1048,fluoroquinolone antibiotic
+1057,cephalosporin
+1059,aminoglycoside antibiotic
+1063,fluoroquinolone antibiotic
+1064,cephalosporin
+1068,aminoglycoside antibiotic
+1070,sulfonamide antibiotic
+1082,cephalosporin
+1086,cephamycin
+1089,cephamycin
+1093,aminoglycoside antibiotic
+1094,penam
+1101,cephalosporin
+1102,fluoroquinolone antibiotic
+1103,cephamycin
+1105,aminoglycoside antibiotic
+1111,aminoglycoside antibiotic
+1113,aminoglycoside antibiotic
+1116,rifamycin antibiotic
+1120,carbapenem
+1121,aminoglycoside antibiotic
+1127,cephalosporin
+1129,cephamycin
+1131,aminoglycoside antibiotic
+1027,tetracycline antibiotic
+1092,tetracycline antibiotic
+988,tetracycline antibiotic
+1006,tetracycline antibiotic
+1050,aminoglycoside antibiotic
+1139,diaminopyrimidine antibiotic
+1140,cephamycin
+1142,diaminopyrimidine antibiotic
+1145,cephalosporin
+1147,cephamycin
+1149,penam
+1150,fluoroquinolone antibiotic
+1152,cephalosporin
+1160,fluoroquinolone antibiotic
+1162,aminoglycoside antibiotic
+1163,cephamycin
+1167,fluoroquinolone antibiotic
+1170,cephamycin
+1174,fluoroquinolone antibiotic
+1178,cephamycin
+1182,cephalosporin
+1201,penam
+1202,cephalosporin
+1209,fluoroquinolone antibiotic
+1210,aminocoumarin antibiotic
+1215,phosphonic acid antibiotic
+1227,aminoglycoside antibiotic
+1228,cephamycin
+1229,cephalosporin
+1230,cephalosporin
+1235,aminoglycoside antibiotic
+1236,cephamycin
+1242,aminoglycoside antibiotic
+1243,macrolide antibiotic
+1246,aminoglycoside antibiotic
+1247,cephamycin
+1250,cephalosporin
+1251,cephalosporin
+1254,cephalosporin
+1257,fluoroquinolone antibiotic
+1260,aminoglycoside antibiotic
+1261,peptide antibiotic
+1263,fluoroquinolone antibiotic
+1266,aminoglycoside antibiotic
+1267,fluoroquinolone antibiotic
+1268,cephamycin
+1270,fluoroquinolone antibiotic
+1271,aminoglycoside antibiotic
+1272,cephalosporin
+1280,fluoroquinolone antibiotic
+1284,carbapenem
+1287,cephalosporin
+1292,cephalosporin
+1138,tetracycline antibiotic
+1295,phenicol antibiotic
+1297,cephalosporin
+1299,aminoglycoside antibiotic
+3305,macrolide antibiotic
+1304,cephalosporin
+1306,carbapenem
+1171,tetracycline antibiotic
+1198,macrolide antibiotic
+1206,fluoroquinolone antibiotic
+1223,peptide antibiotic
+1285,nucleoside antibiotic
+1222,phosphonic acid antibiotic
+1315,aminocoumarin antibiotic
+1321,penam
+1183,tetracycline antibiotic
+1233,tetracycline antibiotic
+1327,aminoglycoside antibiotic
+1329,aminoglycoside antibiotic
+1330,fluoroquinolone antibiotic
+1331,cephalosporin
+1332,aminoglycoside antibiotic
+1335,fluoroquinolone antibiotic
+1349,carbapenem
+1351,fluoroquinolone antibiotic
+1356,diaminopyrimidine antibiotic
+1357,cephalosporin
+1363,penam
+1364,cephamycin
+1365,aminoglycoside antibiotic
+1366,phenicol antibiotic
+1367,macrolide antibiotic
+1369,fluoroquinolone antibiotic
+1370,aminoglycoside antibiotic
+1371,cephalosporin
+1372,aminoglycoside antibiotic
+1373,cephamycin
+1375,cephamycin
+1377,cephalosporin
+1378,aminoglycoside antibiotic
+1382,aminoglycoside antibiotic
+1383,carbapenem
+1386,aminoglycoside antibiotic
+1388,macrolide antibiotic
+1391,cephalosporin
+1392,aminoglycoside antibiotic
+1397,diaminopyrimidine antibiotic
+1400,cephalosporin
+1405,aminoglycoside antibiotic
+1407,cephamycin
+1409,cephamycin
+1414,fluoroquinolone antibiotic
+1415,aminoglycoside antibiotic
+1420,aminoglycoside antibiotic
+1425,rifamycin antibiotic
+1427,aminoglycoside antibiotic
+1428,carbapenem
+1433,cephamycin
+1435,phenicol antibiotic
+1440,cephalosporin
+1443,penam
+1444,carbapenem
+1454,cephamycin
+1455,carbapenem
+1457,cephalosporin
+1459,cephalosporin
+1460,phosphonic acid antibiotic
+1345,tetracycline antibiotic
+1464,aminoglycoside antibiotic
+1469,elfamycin antibiotic
+1470,fluoroquinolone antibiotic
+1338,penam
+1381,carbapenem
+1342,phenicol antibiotic
+1316,phenicol antibiotic
+1473,cephalosporin
+1478,penam
+1482,carbapenem
+1483,aminoglycoside antibiotic
+1486,penam
+1489,cephamycin
+1491,lincosamide antibiotic
+1494,cephamycin
+1497,diaminopyrimidine antibiotic
+1498,carbapenem
+1500,aminoglycoside antibiotic
+1501,cephamycin
+1504,cephamycin
+1508,fluoroquinolone antibiotic
+1512,carbapenem
+1513,fluoroquinolone antibiotic
+1516,cephamycin
+1518,macrolide antibiotic
+1526,aminoglycoside antibiotic
+1535,cephamycin
+1539,aminoglycoside antibiotic
+1540,aminoglycoside antibiotic
+1543,cephamycin
+1544,diaminopyrimidine antibiotic
+1548,aminoglycoside antibiotic
+1562,aminoglycoside antibiotic
+1563,cephalosporin
+1564,fluoroquinolone antibiotic
+1567,phosphonic acid antibiotic
+1577,aminoglycoside antibiotic
+1579,fluoroquinolone antibiotic
+1580,phenicol antibiotic
+1582,diaminopyrimidine antibiotic
+1583,fluoroquinolone antibiotic
+1585,cephamycin
+1586,cephalosporin
+1588,fluoroquinolone antibiotic
+1590,fluoroquinolone antibiotic
+1591,cephamycin
+1592,diaminopyrimidine antibiotic
+1593,cephamycin
+1595,penam
+1602,aminoglycoside antibiotic
+1604,cephalosporin
+1605,carbapenem
+1606,cephalosporin
+1609,fluoroquinolone antibiotic
+1611,carbapenem
+1613,cephamycin
+1615,aminoglycoside antibiotic
+1616,cephalosporin
+1619,cephalosporin
+1620,cephalosporin
+1505,nucleoside antibiotic
+1584,tetracycline antibiotic
+1624,lincosamide antibiotic
+1627,cephalosporin
+1631,cephalosporin
+1632,cephalosporin
+1633,phenicol antibiotic
+1480,penam
+1634,cephamycin
+1636,fluoroquinolone antibiotic
+1638,cephamycin
+1643,peptide antibiotic
+1648,cephalosporin
+1650,cephamycin
+1651,aminoglycoside antibiotic
+1553,tetracycline antibiotic
+1653,aminoglycoside antibiotic
+1656,cephalosporin
+1657,aminoglycoside antibiotic
+1661,penam
+1668,cephamycin
+1673,fluoroquinolone antibiotic
+1674,aminoglycoside antibiotic
+1675,cephalosporin
+1680,macrolide antibiotic
+1681,aminoglycoside antibiotic
+1682,aminoglycoside antibiotic
+1683,fluoroquinolone antibiotic
+1688,cephalosporin
+1691,cephamycin
+1703,phosphonic acid antibiotic
+1704,cephamycin
+1707,fluoroquinolone antibiotic
+1711,cephalosporin
+1720,tetracycline antibiotic
+1729,cephalosporin
+1731,macrolide antibiotic
+1734,carbapenem
+1737,aminoglycoside antibiotic
+1738,cephalosporin
+1744,phenicol antibiotic
+1747,cephamycin
+1755,cephalosporin
+1756,cephamycin
+1757,fluoroquinolone antibiotic
+1760,fluoroquinolone antibiotic
+1762,aminoglycoside antibiotic
+1768,cephalosporin
+1769,cephalosporin
+1772,aminoglycoside antibiotic
+1774,cephalosporin
+1775,fluoroquinolone antibiotic
+1779,cephalosporin
+1773,tetracycline antibiotic
+1781,aminoglycoside antibiotic
+1789,fluoroquinolone antibiotic
+1677,cephalosporin
+1687,carbapenem
+1752,fluoroquinolone antibiotic
+1794,nucleoside antibiotic
+1796,cephamycin
+1801,aminoglycoside antibiotic
+1803,fluoroquinolone antibiotic
+1809,fluoroquinolone antibiotic
+1811,penam
+1692,tetracycline antibiotic
+1708,tetracycline antibiotic
+1815,cephalosporin
+1820,peptide antibiotic
+1821,aminoglycoside antibiotic
+1824,macrolide antibiotic
+1829,cephamycin
+1830,aminoglycoside antibiotic
+1831,aminoglycoside antibiotic
+1832,fluoroquinolone antibiotic
+1837,cephalosporin
+1839,aminoglycoside antibiotic
+1840,cephamycin
+1842,carbapenem
+1843,aminoglycoside antibiotic
+1846,cephalosporin
+1847,fluoroquinolone antibiotic
+1848,cephalosporin
+1850,phosphonic acid antibiotic
+1852,aminoglycoside antibiotic
+1854,aminoglycoside antibiotic
+1855,cephalosporin
+1856,fluoroquinolone antibiotic
+1859,fluoroquinolone antibiotic
+1864,cephamycin
+1867,cephalosporin
+1873,lincosamide antibiotic
+1877,cephamycin
+1878,cephalosporin
+1879,aminoglycoside antibiotic
+1884,cephalosporin
+1891,aminoglycoside antibiotic
+1895,cephamycin
+1901,cephalosporin
+1906,cephalosporin
+1909,aminoglycoside antibiotic
+1910,cephalosporin
+1911,aminoglycoside antibiotic
+1913,diaminopyrimidine antibiotic
+1915,cephamycin
+1918,aminoglycoside antibiotic
+1921,macrolide antibiotic
+1923,aminoglycoside antibiotic
+1926,cephamycin
+1930,cephalosporin
+1934,lincosamide antibiotic
+1936,cephalosporin
+1939,aminoglycoside antibiotic
+1940,fluoroquinolone antibiotic
+1917,tetracycline antibiotic
+1835,tetracycline antibiotic
+1808,tetracycline antibiotic
+1885,tetracycline antibiotic
+1944,cephalosporin
+1946,cephalosporin
+1947,cephalosporin
+1949,carbapenem
+1950,rifamycin antibiotic
+1956,carbapenem
+1971,diaminopyrimidine antibiotic
+1977,aminoglycoside antibiotic
+1979,phosphonic acid antibiotic
+1987,fluoroquinolone antibiotic
+1988,cephamycin
+1990,cephamycin
+1992,diaminopyrimidine antibiotic
+1993,fluoroquinolone antibiotic
+1995,aminoglycoside antibiotic
+1998,cephalosporin
+2005,cephalosporin
+2009,aminoglycoside antibiotic
+2010,cephalosporin
+2011,fluoroquinolone antibiotic
+2017,cephalosporin
+2018,cephamycin
+2022,cephalosporin
+2027,cephamycin
+2028,fluoroquinolone antibiotic
+2030,aminoglycoside antibiotic
+2032,cephalosporin
+2039,penam
+2042,carbapenem
+2043,aminoglycoside antibiotic
+2044,fluoroquinolone antibiotic
+2049,fluoroquinolone antibiotic
+2051,diaminopyrimidine antibiotic
+2052,aminoglycoside antibiotic
+2053,diaminopyrimidine antibiotic
+2058,phenicol antibiotic
+2060,phosphonic acid antibiotic
+2062,macrolide antibiotic
+2063,penam
+2065,cephamycin
+2071,aminoglycoside antibiotic
+2079,aminoglycoside antibiotic
+2081,fluoroquinolone antibiotic
+2087,aminoglycoside antibiotic
+2110,penam
+2112,fluoroquinolone antibiotic
+2114,aminoglycoside antibiotic
+2117,aminoglycoside antibiotic
+2134,cephamycin
+29,sulfonamide antibiotic
+1994,macrolide antibiotic
+2003,fluoroquinolone antibiotic
+2046,tetracycline antibiotic
+1969,tetracycline antibiotic
+2002,phenicol antibiotic
+111,aminocoumarin antibiotic
+335,fluoroquinolone antibiotic
+462,peptide antibiotic
+489,aminoglycoside antibiotic
+1942,carbapenem
+2014,peptide antibiotic
+196,polyamine antibiotic
+794,peptide antibiotic
+851,pyrazine antibiotic
+984,fluoroquinolone antibiotic
+1166,fluoroquinolone antibiotic
+1175,peptide antibiotic
+1991,tetracycline antibiotic
+2020,tetracycline antibiotic
+2037,tetracycline antibiotic
+1176,isoniazid-like antibiotic
+1197,aminoglycoside antibiotic
+1301,peptide antibiotic
+1339,polyamine antibiotic
+1354,polyamine antibiotic
+1360,aminocoumarin antibiotic
+1574,isoniazid-like antibiotic
+1822,aminocoumarin antibiotic
+1849,aminoglycoside antibiotic
+1935,fluoroquinolone antibiotic
+1943,isoniazid-like antibiotic
+2068,peptide antibiotic
+2070,aminoglycoside antibiotic
+2076,aminoglycoside antibiotic
+2137,elfamycin antibiotic
+2158,elfamycin antibiotic
+2078,aminoglycoside antibiotic
+2124,elfamycin antibiotic
+1545,fluoroquinolone antibiotic
+1055,fluoroquinolone antibiotic
+1721,sulfone antibiotic
+100,thioamide antibiotic
+1323,fluoroquinolone antibiotic
+1135,aminocoumarin antibiotic
+570,sulfonamide antibiotic
+2116,aminoglycoside antibiotic
+2147,elfamycin antibiotic
+2131,aminoglycoside antibiotic
+3301,lincosamide antibiotic
+1558,peptide antibiotic
+821,rifamycin antibiotic
+1001,peptide antibiotic
+1203,isoniazid-like antibiotic
+1432,polyamine antibiotic
+1710,fluoroquinolone antibiotic
+2069,aminoglycoside antibiotic
+2073,aminoglycoside antibiotic
+2074,aminoglycoside antibiotic
+2109,fluoroquinolone antibiotic
+2077,aminoglycoside antibiotic
+212,fluoroquinolone antibiotic
+535,fluoroquinolone antibiotic
+36,fluoroquinolone antibiotic
+1696,fluoroquinolone antibiotic
+2085,aminoglycoside antibiotic
+2097,aminoglycoside antibiotic
+2113,aminoglycoside antibiotic
+2129,aminoglycoside antibiotic
+2133,peptide antibiotic
+2152,aminoglycoside antibiotic
+2192,disinfecting agents and antiseptics
+2193,disinfecting agents and antiseptics
+2194,disinfecting agents and antiseptics
+2195,disinfecting agents and antiseptics
+2196,fluoroquinolone antibiotic
+2093,aminoglycoside antibiotic
+2143,aminoglycoside antibiotic
+2132,aminoglycoside antibiotic
+2127,aminoglycoside antibiotic
+2154,aminoglycoside antibiotic
+2122,aminoglycoside antibiotic
+2128,aminoglycoside antibiotic
+2111,aminoglycoside antibiotic
+2084,aminoglycoside antibiotic
+2105,aminoglycoside antibiotic
+2155,tetracycline antibiotic
+2100,aminoglycoside antibiotic
+2091,aminoglycoside antibiotic
+2090,aminoglycoside antibiotic
+2126,aminoglycoside antibiotic
+2198,fluoroquinolone antibiotic
+2136,aminoglycoside antibiotic
+2140,aminoglycoside antibiotic
+2146,aminoglycoside antibiotic
+2157,aminoglycoside antibiotic
+1450,fluoroquinolone antibiotic
+2083,fluoroquinolone antibiotic
+2096,aminoglycoside antibiotic
+2145,tetracycline antibiotic
+2102,aminoglycoside antibiotic
+2149,aminoglycoside antibiotic
+2106,aminoglycoside antibiotic
+2088,aminoglycoside antibiotic
+2141,aminoglycoside antibiotic
+2099,aminoglycoside antibiotic
+2142,peptide antibiotic
+2216,phenicol antibiotic
+2217,phenicol antibiotic
+2191,aminoglycoside antibiotic
+2228,carbapenem
+2229,carbapenem
+2230,carbapenem
+2231,carbapenem
+2232,carbapenem
+2233,carbapenem
+2234,carbapenem
+2235,carbapenem
+3586,penam
+2240,glycopeptide antibiotic
+2248,fusidane antibiotic
+2249,peptide antibiotic
+2251,peptide antibiotic
+2257,elfamycin antibiotic
+2259,macrolide antibiotic
+2261,lincosamide antibiotic
+2264,macrolide antibiotic
+3320,fluoroquinolone antibiotic
+2279,peptide antibiotic
+2281,peptide antibiotic
+2282,peptide antibiotic
+2283,peptide antibiotic
+2276,mupirocin-like antibiotic
+2284,phosphonic acid antibiotic
+2290,phosphonic acid antibiotic
+2277,macrolide antibiotic
+3365,phenicol antibiotic
+2250,fusidane antibiotic
+651,peptide antibiotic
+2268,pleuromutilin antibiotic
+2285,phosphonic acid antibiotic
+3314,cephalosporin
+3315,cephalosporin
+3316,cephalosporin
+3310,cephalosporin
+2298,carbapenem
+3317,cephalosporin
+2286,phosphonic acid antibiotic
+3321,aminoglycoside antibiotic
+2288,isoniazid-like antibiotic
+2310,elfamycin antibiotic
+2294,fluoroquinolone antibiotic
+2314,fluoroquinolone antibiotic
+2305,peptide antibiotic
+2301,peptide antibiotic
+3583,penam
+3318,cephalosporin
+3319,aminoglycoside antibiotic
+3592,penam
+2331,aminoglycoside antibiotic
+2335,cephalosporin
+3322,aminoglycoside antibiotic
+3323,fluoroquinolone antibiotic
+4253,cephalosporin
+2293,peptide antibiotic
+2299,peptide antibiotic
+2315,fluoroquinolone antibiotic
+3328,aminoglycoside antibiotic
+3332,cephalosporin
+3333,cephalosporin
+3334,aminoglycoside antibiotic
+3335,fluoroquinolone antibiotic
+3336,fluoroquinolone antibiotic
+3339,diaminopyrimidine antibiotic
+3343,diaminopyrimidine antibiotic
+3344,diaminopyrimidine antibiotic
+3346,cephalosporin
+2373,phosphonic acid antibiotic
+2372,phosphonic acid antibiotic
+2334,cephalosporin
+2336,cephalosporin
+2337,cephalosporin
+2339,cephalosporin
+2340,cephalosporin
+2341,cephalosporin
+2338,cephalosporin
+2342,cephalosporin
+2374,phosphonic acid antibiotic
+2376,phosphonic acid antibiotic
+2379,phosphonic acid antibiotic
+4226,cephalosporin
+3325,fluoroquinolone antibiotic
+2383,aminoglycoside antibiotic
+3331,cephalosporin
+2404,fluoroquinolone antibiotic
+3342,diaminopyrimidine antibiotic
+3347,cephalosporin
+3398,aminoglycoside antibiotic
+660,fluoroquinolone antibiotic
+2104,fluoroquinolone antibiotic
+2401,fluoroquinolone antibiotic
+2402,fluoroquinolone antibiotic
+2403,fluoroquinolone antibiotic
+2406,tetracycline antibiotic
+2407,fluoroquinolone antibiotic
+2410,fluoroquinolone antibiotic
+2395,aminoglycoside antibiotic
+2411,fluoroquinolone antibiotic
+2412,fluoroquinolone antibiotic
+3585,penam
+3591,penam
+2394,peptide antibiotic
+2380,phosphonic acid antibiotic
+2378,phosphonic acid antibiotic
+2462,fluoroquinolone antibiotic
+2381,phosphonic acid antibiotic
+3326,fluoroquinolone antibiotic
+2423,nitroimidazole antibiotic
+2428,antibacterial free fatty acids
+2429,antibacterial free fatty acids
+4254,cephalosporin
+2433,fluoroquinolone antibiotic
+2436,glycopeptide antibiotic
+3355,phenicol antibiotic
+3357,phenicol antibiotic
+3358,phenicol antibiotic
+3360,phenicol antibiotic
+3361,lincosamide antibiotic
+3362,phosphonic acid antibiotic
+3363,peptide antibiotic
+3364,fusidane antibiotic
+3367,fluoroquinolone antibiotic
+3369,phosphonic acid antibiotic
+3370,phosphonic acid antibiotic
+3327,aminoglycoside antibiotic
+3371,phosphonic acid antibiotic
+3374,aminoglycoside antibiotic
+3391,peptide antibiotic
+3397,nucleoside antibiotic
+2144,polyamine antibiotic
+2476,pactamycin-like antibiotic
+2478,tetracycline antibiotic
+2812,macrolide antibiotic
+3366,phenicol antibiotic
+3372,phosphonic acid antibiotic
+3376,aminoglycoside antibiotic
+3379,aminoglycoside antibiotic
+2519,lincosamide antibiotic
+2520,phenicol antibiotic
+2521,peptide antibiotic
+2522,pleuromutilin antibiotic
+2524,aminoglycoside antibiotic
+2525,aminoglycoside antibiotic
+2527,macrolide antibiotic
+2528,rifamycin antibiotic
+2529,aminoglycoside antibiotic
+3382,aminoglycoside antibiotic
+3384,peptide antibiotic
+3387,peptide antibiotic
+3380,glycopeptide antibiotic
+3381,aminoglycoside antibiotic
+2517,tetracycline antibiotic
+3383,peptide antibiotic
+3399,aminoglycoside antibiotic
+2550,fluoroquinolone antibiotic
+3373,phosphonic acid antibiotic
+3377,aminoglycoside antibiotic
+3385,peptide antibiotic
+3388,peptide antibiotic
+3392,peptide antibiotic
+3484,pleuromutilin antibiotic
+3587,penam
+3593,penam
+3727,isoniazid-like antibiotic
+2355,cephalosporin
+2356,cephalosporin
+3378,aminoglycoside antibiotic
+3386,peptide antibiotic
+3389,peptide antibiotic
+3393,peptide antibiotic
+4227,cephalosporin
+3588,penam
+3594,penam
+3595,penam
+4255,cephalosporin
+2098,peptide antibiotic
+3390,peptide antibiotic
+3394,peptide antibiotic
+515,macrolide antibiotic
+4228,cephalosporin
+4229,cephalosporin
+3395,peptide antibiotic
+3589,penam
+2646,tetracycline antibiotic
+2643,tetracycline antibiotic
+2644,tetracycline antibiotic
+2645,tetracycline antibiotic
+522,phenicol antibiotic
+3396,peptide antibiotic
+347,carbapenem
+2655,aminoglycoside antibiotic
+2656,macrolide antibiotic
+3590,penam
+4256,cephalosporin
+2303,bicyclomycin-like antibiotic
+2348,cephalosporin
+1240,macrolide antibiotic
+2267,nitrofuran antibiotic
+1897,tetracycline antibiotic
+2291,phosphonic acid antibiotic
+2108,elfamycin antibiotic
+255,glycopeptide antibiotic
+2755,aminoglycoside antibiotic
+2349,cephalosporin
+2350,cephalosporin
+2351,cephalosporin
+2352,cephalosporin
+2353,cephalosporin
+3549,penam
+3559,penam
+3565,penam
+2750,aminoglycoside antibiotic
+2749,lincosamide antibiotic
+2752,aminoglycoside antibiotic
+2754,aminoglycoside antibiotic
+2354,cephalosporin
+2758,macrolide antibiotic
+2759,macrolide antibiotic
+2901,cephamycin
+2770,aminoglycoside antibiotic
+2771,fluoroquinolone antibiotic
+2779,phosphonic acid antibiotic
+2780,phosphonic acid antibiotic
+2782,peptide antibiotic
+4257,cephalosporin
+2783,peptide antibiotic
+3550,penam
+3558,cephalosporin
+3560,penam
+3566,penam
+2805,pleuromutilin antibiotic
+2791,peptide antibiotic
+2833,macrolide antibiotic
+2792,macrolide antibiotic
+2794,macrolide antibiotic
+2806,lincosamide antibiotic
+2807,macrolide antibiotic
+2808,macrolide antibiotic
+2803,salicylic acid antibiotic
+2804,salicylic acid antibiotic
+2816,macrolide antibiotic
+2811,macrolide antibiotic
+2813,macrolide antibiotic
+2814,macrolide antibiotic
+2815,macrolide antibiotic
+4258,cephalosporin
+2793,macrolide antibiotic
+2802,macrolide antibiotic
+2810,macrolide antibiotic
+2817,macrolide antibiotic
+2819,oxazolidinone antibiotic
+2820,macrolide antibiotic
+2824,macrolide antibiotic
+2825,phenicol antibiotic
+2827,salicylic acid antibiotic
+2828,penam
+328,phenicol antibiotic
+2832,aminoglycoside antibiotic
+2837,aminoglycoside antibiotic
+2838,peptide antibiotic
+2841,phenicol antibiotic
+2842,carbapenem
+2822,macrolide antibiotic
+2846,cephalosporin
+2343,cephalosporin
+2344,cephalosporin
+2345,cephalosporin
+2347,cephalosporin
+2346,cephalosporin
+2357,cephalosporin
+2358,cephalosporin
+2359,cephalosporin
+2360,cephalosporin
+2361,cephalosporin
+2362,cephalosporin
+2363,cephalosporin
+2364,cephalosporin
+2365,cephalosporin
+2366,cephalosporin
+2367,cephalosporin
+2368,cephalosporin
+2370,cephalosporin
+4230,cephalosporin
+2371,cephalosporin
+2377,phosphonic acid antibiotic
+2850,disinfecting agents and antiseptics
+2851,disinfecting agents and antiseptics
+2873,phenicol antibiotic
+2875,sulfonamide antibiotic
+4259,cephalosporin
+2880,fluoroquinolone antibiotic
+2881,tetracycline antibiotic
+2882,tetracycline antibiotic
+2888,penam
+2890,phenicol antibiotic
+2893,phenicol antibiotic
+2894,phenicol antibiotic
+2895,phenicol antibiotic
+2896,phenicol antibiotic
+2897,phenicol antibiotic
+2899,phenicol antibiotic
+1042,phenicol antibiotic
+2902,peptide antibiotic
+3551,penam
+3561,carbapenem
+3567,penam
+3614,penam
+3701,sulfonamide antibiotic
+3552,penam
+3562,cephalosporin
+3568,penam
+3553,penam
+3563,carbapenem
+3611,penam
+3613,penam
+3554,penam
+3564,penam
+3612,penam
+3615,penam
+3616,penam
+3216,macrolide antibiotic
+3617,carbapenem
+3579,cephamycin
+4231,cephalosporin
+4232,cephalosporin
+3654,zoliflodacin-like antibiotic
+3574,penam
+2397,peptide antibiotic
+3656,fluoroquinolone antibiotic
+3575,penam
+3577,cephamycin
+3217,macrolide antibiotic
+3651,aminoglycoside antibiotic
+3329,fluoroquinolone antibiotic
+3646,macrolide antibiotic
+3649,macrolide antibiotic
+3013,carbapenem
+3576,cephalosporin
+3578,cephamycin
+3076,diaminopyrimidine antibiotic
+3580,penam
+3128,peptide antibiotic
+3129,peptide antibiotic
+3130,peptide antibiotic
+3131,peptide antibiotic
+3132,peptide antibiotic
+3133,peptide antibiotic
+3134,peptide antibiotic
+3135,peptide antibiotic
+3136,peptide antibiotic
+3137,peptide antibiotic
+3138,peptide antibiotic
+3139,peptide antibiotic
+3141,peptide antibiotic
+3142,peptide antibiotic
+3143,peptide antibiotic
+3145,peptide antibiotic
+3745,aminoglycoside antibiotic
+2614,macrolide antibiotic
+3218,macrolide antibiotic
+3219,macrolide antibiotic
+3220,macrolide antibiotic
+3252,macrolide antibiotic
+4233,cephalosporin
+3285,tetracycline antibiotic
+4260,cephalosporin
+4234,cephalosporin
+3289,tetracycline antibiotic
+4261,cephalosporin
+3255,diaminopyrimidine antibiotic
+3256,diaminopyrimidine antibiotic
+3257,diaminopyrimidine antibiotic
+3258,diaminopyrimidine antibiotic
+3259,diaminopyrimidine antibiotic
+3260,diaminopyrimidine antibiotic
+3262,diaminopyrimidine antibiotic
+3263,diaminopyrimidine antibiotic
+3264,diaminopyrimidine antibiotic
+3267,glycopeptide antibiotic
+3270,diaminopyrimidine antibiotic
+3271,peptide antibiotic
+3277,phosphonic acid antibiotic
+3278,fluoroquinolone antibiotic
+3284,tetracycline antibiotic
+3287,tetracycline antibiotic
+3288,tetracycline antibiotic
+3290,tetracycline antibiotic
+3292,tetracycline antibiotic
+3293,tetracycline antibiotic
+3582,penam
+3750,tetracycline antibiotic
+3754,disinfecting agents and antiseptics
+3755,disinfecting agents and antiseptics
+3759,aminoglycoside antibiotic
+3760,cephamycin
+3765,phosphonic acid antibiotic
+3766,penam
+3767,penam
+3768,penam
+3769,penam
+3770,penam
+3771,penam
+3772,penam
+3773,cephalosporin
+3774,cephalosporin
+3775,cephalosporin
+3776,cephalosporin
+3777,cephalosporin
+3778,cephalosporin
+3780,cephalosporin
+4262,cephalosporin
+3786,phenicol antibiotic
+3787,peptide antibiotic
+3788,nucleoside antibiotic
+3789,glycopeptide antibiotic
+3790,penam
+3791,peptide antibiotic
+3792,aminoglycoside antibiotic
+3793,peptide antibiotic
+3794,peptide antibiotic
+3795,peptide antibiotic
+3801,aminoglycoside antibiotic
+3802,aminoglycoside antibiotic
+3817,pleuromutilin antibiotic
+3818,pleuromutilin antibiotic
+3819,diaminopyrimidine antibiotic
+3820,aminoglycoside antibiotic
+3798,tetracycline antibiotic
+3823,macrolide antibiotic
+3828,carbapenem
+3829,penam
+2323,disinfecting agents and antiseptics
+3830,disinfecting agents and antiseptics
+3832,phosphonic acid antibiotic
+3834,thioamide antibiotic
+3836,isoniazid-like antibiotic
+3837,thioamide antibiotic
+3838,thioamide antibiotic
+4235,cephalosporin
+3875,cephalosporin
+3886,phosphonic acid antibiotic
+3887,diaminopyrimidine antibiotic
+3890,cephamycin
+3891,cephamycin
+3892,cephamycin
+3893,cephamycin
+3894,cephamycin
+3896,cephamycin
+3897,cephamycin
+3898,cephamycin
+3899,cephamycin
+3900,cephamycin
+3901,cephamycin
+3902,cephamycin
+3903,cephamycin
+3904,cephamycin
+3905,cephamycin
+3906,cephamycin
+3907,cephamycin
+3908,cephamycin
+3909,cephamycin
+3910,cephamycin
+3911,cephamycin
+3912,cephamycin
+3913,cephamycin
+3914,cephamycin
+3915,cephamycin
+3916,cephamycin
+3917,cephamycin
+3918,cephamycin
+3919,cephamycin
+3920,cephamycin
+3931,cephamycin
+4236,cephalosporin
+4237,cephalosporin
+4238,cephalosporin
+3932,cephamycin
+3933,cephamycin
+3934,cephamycin
+3935,cephamycin
+3936,cephamycin
+3937,cephamycin
+3938,cephamycin
+3939,cephamycin
+3940,cephamycin
+3941,cephamycin
+3942,cephamycin
+3966,cephalosporin
+3967,cephalosporin
+3968,cephalosporin
+4239,cephalosporin
+4240,cephalosporin
+4263,cephalosporin
+4264,cephalosporin
+4066,diaminopyrimidine antibiotic
+4077,diaminopyrimidine antibiotic
+4078,diaminopyrimidine antibiotic
+4079,diaminopyrimidine antibiotic
+4080,diaminopyrimidine antibiotic
+4081,diaminopyrimidine antibiotic
+4082,diaminopyrimidine antibiotic
+4083,diaminopyrimidine antibiotic
+4085,diaminopyrimidine antibiotic
+4265,cephalosporin
+4266,cephalosporin
+4122,carbapenem
+4176,cephalosporin
+4177,cephalosporin
+4178,cephalosporin
+4179,cephalosporin
+4180,cephalosporin
+4181,cephalosporin
+4182,cephalosporin
+4183,cephalosporin
+4184,cephalosporin
+4185,cephalosporin
+4186,cephalosporin
+4187,cephalosporin
+4188,cephalosporin
+4189,cephalosporin
+4190,cephalosporin
+4191,cephalosporin
+4192,cephalosporin
+4193,cephalosporin
+4194,cephalosporin
+4195,cephalosporin
+4196,cephalosporin
+4197,cephalosporin
+4198,cephalosporin
+4199,cephalosporin
+4200,cephalosporin
+4201,cephalosporin
+4202,cephalosporin
+4203,cephalosporin
+4204,cephalosporin
+4205,cephalosporin
+4206,cephalosporin
+4207,cephalosporin
+4208,cephalosporin
+4209,cephalosporin
+4210,cephalosporin
+4211,cephalosporin
+4212,cephalosporin
+4213,cephalosporin
+4214,cephalosporin
+4215,cephalosporin
+4216,cephalosporin
+4217,cephalosporin
+4218,cephalosporin
+4219,cephalosporin
+4220,cephalosporin
+4221,cephalosporin
+4222,cephalosporin
+4223,cephalosporin
+4224,cephalosporin
+4225,cephalosporin
+4241,cephalosporin
+4242,cephalosporin
+4243,cephalosporin
+4244,cephalosporin
+4245,cephalosporin
+4246,cephalosporin
+4247,cephalosporin
+4248,cephalosporin
+4249,cephalosporin
+4250,cephalosporin
+4251,cephalosporin
+4252,cephalosporin
+4267,cephalosporin
+4268,cephalosporin
+4269,cephalosporin
+4270,cephalosporin
+4271,cephalosporin
+4272,cephalosporin
+4273,cephalosporin
+4274,cephalosporin
+4275,cephalosporin
+4276,cephalosporin
+4277,cephalosporin
+4278,cephalosporin
+4279,cephalosporin
+4280,cephalosporin
+4281,cephalosporin
+4282,cephalosporin
+4283,cephalosporin
+4284,cephalosporin
+4285,cephalosporin
+4286,cephalosporin
+4287,cephalosporin
+4288,cephalosporin
+4289,cephalosporin
+4290,cephalosporin
+4291,cephalosporin
+4292,cephalosporin
+4293,cephalosporin
+4294,cephalosporin
+4295,cephalosporin
+4296,cephalosporin
+4297,cephalosporin
+4298,cephalosporin
+4299,cephalosporin
+4300,cephalosporin
+4301,cephalosporin
+4302,cephalosporin
+4303,cephalosporin
+4304,cephalosporin
+4305,cephalosporin
+4306,cephalosporin
+4307,cephalosporin
+4308,cephalosporin
+4309,cephalosporin
+4310,cephalosporin
+4311,cephalosporin
+4312,cephalosporin
+4313,cephalosporin
+4314,cephalosporin
+4315,cephalosporin
+4316,cephalosporin
+4317,cephalosporin
+4318,cephalosporin
+4319,cephalosporin
+4320,cephalosporin
+4321,cephalosporin
+4322,cephalosporin
+4324,cephalosporin
+4325,cephalosporin
+4326,cephalosporin
+4327,cephalosporin
+4329,cephalosporin
+4330,cephalosporin
+4331,cephalosporin
+4332,cephalosporin
+4333,cephalosporin
+4334,cephalosporin
+4335,cephalosporin
+4336,cephalosporin
+4337,cephalosporin
+4338,cephalosporin
+4339,cephalosporin
+4340,cephalosporin
+4341,cephalosporin
+4342,cephalosporin
+4343,cephalosporin
+4344,cephalosporin
+4345,cephalosporin
+4346,cephalosporin
+4347,cephalosporin
+4348,cephalosporin
+4349,cephalosporin
+4350,cephalosporin
+4351,cephalosporin
+4352,cephalosporin
+4353,cephalosporin
+4354,cephalosporin
+4355,cephalosporin
+4356,carbapenem
+4357,carbapenem
+4358,carbapenem
+4359,carbapenem
+4360,carbapenem
+4361,carbapenem
+4362,carbapenem
+4363,carbapenem
+4364,carbapenem
+4365,carbapenem
+4366,carbapenem
+4367,carbapenem
+4369,carbapenem
+4406,carbapenem
+4407,cephalosporin
+4408,carbapenem
+4409,penam
+4410,penam
+4411,penam
+4412,penam
+4413,penam
+4414,penam
+4415,penam
+4416,penam
+4417,penam
+4418,penam
+4419,penam
+4420,penam
+4421,penam
+4422,penam
+4423,penam
+4424,penam
+4425,penam
+4426,penam
+4427,penam
+4428,penam
+4429,penam
+4430,penam
+4431,penam
+4432,penam
+4433,penam
+4434,penam
+4435,penam
+4436,penam
+4437,penam
+4438,penam
+4439,penam
+4440,carbapenem
+4441,carbapenem
+4442,cephalosporin
+4443,cephalosporin
+4444,cephalosporin
+4445,carbapenem
+4446,carbapenem
+4447,carbapenem
+4448,carbapenem
+4449,carbapenem
+4450,carbapenem
+4451,carbapenem
+4452,carbapenem
+4453,carbapenem
+4454,carbapenem
+4455,carbapenem
+4456,carbapenem
+4457,carbapenem
+4458,carbapenem
+4459,carbapenem
+4460,carbapenem
+4461,cephalosporin
+4462,cephalosporin
+4463,penam
+4464,cephalosporin
+4465,cephalosporin
+4466,cephalosporin
+4467,cephalosporin
+4468,cephalosporin
+4469,cephamycin
+4470,cephamycin
+4471,cephamycin
+4472,cephamycin
+4473,cephamycin
+4474,cephamycin
+4475,cephamycin
+4476,cephamycin
+4477,cephamycin
+4478,cephamycin
+4479,cephamycin
+4480,carbapenem
+4481,carbapenem
+4482,carbapenem
+4483,carbapenem
+4484,carbapenem
+4485,cephalosporin
+4486,cephalosporin
+4487,cephalosporin
+4488,cephalosporin
+4489,cephalosporin
+4490,cephalosporin
+4491,cephalosporin
+4492,cephalosporin
+4493,cephalosporin
+4494,cephalosporin
+4495,cephalosporin
+4496,cephalosporin
+4497,cephalosporin
+4498,cephalosporin
+4499,cephalosporin
+4500,cephalosporin
+4501,cephalosporin
+4502,cephalosporin
+4503,cephalosporin
+4504,cephalosporin
+4505,cephalosporin
+4506,cephalosporin
+4507,cephalosporin
+4508,cephalosporin
+4509,cephalosporin
+4510,cephalosporin
+4511,cephalosporin
+4512,cephalosporin
+4513,cephalosporin
+4514,cephalosporin
+4515,cephalosporin
+4516,cephalosporin
+4517,cephalosporin
+4518,cephalosporin
+4519,cephalosporin
+4520,cephalosporin
+4521,cephalosporin
+4522,cephalosporin
+4523,cephalosporin
+4524,cephalosporin
+4525,cephalosporin
+4526,cephalosporin
+4527,cephalosporin
+4528,cephalosporin
+4529,cephalosporin
+4530,cephalosporin
+4531,cephalosporin
+4532,cephalosporin
+4533,cephalosporin
+4534,cephalosporin
+4535,cephalosporin
+4536,cephalosporin
+4537,cephalosporin
+4538,cephalosporin
+4539,cephalosporin
+4540,cephalosporin
+4541,cephalosporin
+4542,cephalosporin
+4543,cephalosporin
+4544,cephalosporin
+4545,cephalosporin
+4546,cephalosporin
+4547,cephalosporin
+4548,cephalosporin
+4549,cephalosporin
+4550,cephalosporin
+4551,cephalosporin
+4552,cephalosporin
+4553,cephalosporin
+4554,cephalosporin
+4555,cephalosporin
+4556,cephalosporin
+4557,cephalosporin
+4558,cephalosporin
+4559,cephalosporin
+4560,cephalosporin
+4561,cephalosporin
+4562,cephalosporin
+4563,cephalosporin
+4564,cephalosporin
+4565,cephalosporin
+4566,cephalosporin
+4567,cephalosporin
+4568,cephalosporin
+4569,cephalosporin
+4570,cephalosporin
+4571,cephalosporin
+4572,cephalosporin
+4573,cephalosporin
+4574,cephalosporin
+4575,carbapenem
+4584,carbapenem
+4585,carbapenem
+4588,cephalosporin
+4589,cephalosporin
+4590,cephalosporin
+4591,cephalosporin
+4592,cephalosporin
+4593,cephalosporin
+4594,cephalosporin
+4595,cephalosporin
+4596,carbapenem
+4597,carbapenem
+4598,carbapenem
+4599,carbapenem
+4600,carbapenem
+4601,carbapenem
+4608,penam
+4631,carbapenem
+4664,carbapenem
+4665,carbapenem
+4666,carbapenem
+4667,carbapenem
+4668,carbapenem
+4669,carbapenem
+4670,carbapenem
+4671,carbapenem
+4672,carbapenem
+4673,carbapenem
+4674,carbapenem
+4675,carbapenem
+4676,carbapenem
+4677,carbapenem
+4678,carbapenem
+4713,carbapenem
+4714,cephalosporin
+4715,cephalosporin
+4716,cephalosporin
+4717,cephalosporin
+4718,cephalosporin
+4752,cephalosporin
+4754,cephalosporin
+4755,cephalosporin
+4756,cephalosporin
+4757,cephalosporin
+4758,cephalosporin
+4759,cephalosporin
+4760,carbapenem
+4761,carbapenem
+4762,carbapenem
+4769,carbapenem
+4770,cephalosporin
+4776,carbapenem
+4777,carbapenem
+4781,cephalosporin
+4801,carbapenem
+5622,carbapenem
+5623,carbapenem
+5624,carbapenem
+5629,carbapenem
+5630,carbapenem
+5631,carbapenem
+5632,carbapenem
+5633,carbapenem
+5634,carbapenem
+5636,cephalosporin
+5637,cephalosporin
+5638,carbapenem
+5641,cephalosporin
+5642,carbapenem
+5643,carbapenem
+5644,carbapenem
+5645,carbapenem
+5646,carbapenem
+5647,carbapenem
+5648,carbapenem
+5649,carbapenem
+5650,carbapenem
+5651,carbapenem
+5660,carbapenem
+5661,carbapenem
+5662,carbapenem
+5663,carbapenem
+5664,cephalosporin
+5665,cephalosporin
+5666,carbapenem
+5672,carbapenem
+5723,carbapenem
+5724,carbapenem
+5879,peptide antibiotic
+5880,peptide antibiotic
+5728,disinfecting agents and antiseptics
+5730,disinfecting agents and antiseptics
+5731,disinfecting agents and antiseptics
+5733,phenicol antibiotic
+2823,macrolide antibiotic
+2891,phenicol antibiotic
+1524,phenicol antibiotic
+332,penam
+2148,fluoroquinolone antibiotic
+2086,tetracycline antibiotic
+2203,peptide antibiotic
+2215,fluoroquinolone antibiotic
+2278,mupirocin-like antibiotic
+2254,fusidane antibiotic
+2256,fusidane antibiotic
+2272,peptide antibiotic
+2271,mupirocin-like antibiotic
+2270,mupirocin-like antibiotic
+2080,aminoglycoside antibiotic
+3330,fluoroquinolone antibiotic
+2405,fluoroquinolone antibiotic
+5881,peptide antibiotic
+5882,peptide antibiotic
+2424,peptide antibiotic
+2482,aminoglycoside antibiotic
+2518,tetracycline antibiotic
+3403,pyrazine antibiotic
+2287,isoniazid-like antibiotic
+2681,disinfecting agents and antiseptics
+2753,carbapenem
+2778,peptide antibiotic
+2795,peptide antibiotic
+2818,macrolide antibiotic
+2848,peptide antibiotic
+2849,peptide antibiotic
+3144,peptide antibiotic
+5883,peptide antibiotic
+3268,fluoroquinolone antibiotic
+3753,tetracycline antibiotic
+5749,macrolide antibiotic
+5752,fluoroquinolone antibiotic
+5753,fluoroquinolone antibiotic
+5779,nitroimidazole antibiotic
+5759,nitroimidazole antibiotic
+5763,macrolide antibiotic
+5765,phosphonic acid antibiotic
+5766,peptide antibiotic
+5768,aminoglycoside antibiotic
+5748,macrolide antibiotic
+5747,macrolide antibiotic
+5772,phosphonic acid antibiotic
+5773,phosphonic acid antibiotic
+5774,phosphonic acid antibiotic
+5777,nitroimidazole antibiotic
+5778,nitroimidazole antibiotic
+5780,nitroimidazole antibiotic
+5781,nitroimidazole antibiotic
+5782,nitroimidazole antibiotic
+5783,nitroimidazole antibiotic
+5784,nitroimidazole antibiotic
+5785,nitroimidazole antibiotic
+5786,nitroimidazole antibiotic
+5787,nitroimidazole antibiotic
+5788,carbapenem
+5789,tetracycline antibiotic
+5790,tetracycline antibiotic
+5791,tetracycline antibiotic
+5792,tetracycline antibiotic
+5793,tetracycline antibiotic
+5794,tetracycline antibiotic
+3308,tetracycline antibiotic
+3797,tetracycline antibiotic
+3888,tetracycline antibiotic
+1273,tetracycline antibiotic
+5797,tetracycline antibiotic
+5798,peptide antibiotic
+5884,peptide antibiotic
+5885,peptide antibiotic
+5886,peptide antibiotic
+5755,nitroimidazole antibiotic
+1814,aminoglycoside antibiotic
+5817,aminoglycoside antibiotic
+5818,penam
+5820,rifamycin antibiotic
+5821,rifamycin antibiotic
+5832,peptide antibiotic
+5819,rifamycin antibiotic
+5833,peptide antibiotic
+5834,peptide antibiotic
+5835,peptide antibiotic
+5836,peptide antibiotic
+5837,peptide antibiotic
+5838,peptide antibiotic
+5839,peptide antibiotic
+5840,peptide antibiotic
+5841,peptide antibiotic
+5842,peptide antibiotic
+5843,peptide antibiotic
+5844,peptide antibiotic
+5845,peptide antibiotic
+5846,peptide antibiotic
+5847,peptide antibiotic
+5848,peptide antibiotic
+5849,peptide antibiotic
+5850,peptide antibiotic
+5851,peptide antibiotic
+5852,peptide antibiotic
+5853,peptide antibiotic
+5854,peptide antibiotic
+5855,peptide antibiotic
+5856,peptide antibiotic
+5857,peptide antibiotic
+5858,peptide antibiotic
+5859,peptide antibiotic
+5860,peptide antibiotic
+5861,peptide antibiotic
+5862,peptide antibiotic
+5863,peptide antibiotic
+5864,peptide antibiotic
+5865,peptide antibiotic
+5866,peptide antibiotic
+5867,peptide antibiotic
+5868,peptide antibiotic
+5869,peptide antibiotic
+5870,peptide antibiotic
+5871,peptide antibiotic
+5872,peptide antibiotic
+5873,peptide antibiotic
+5874,peptide antibiotic
+5875,peptide antibiotic
+5876,peptide antibiotic
+5877,peptide antibiotic
+5878,peptide antibiotic
+5887,peptide antibiotic
+5888,peptide antibiotic
+5889,peptide antibiotic
+5890,peptide antibiotic
+5891,peptide antibiotic
+5892,peptide antibiotic
+5893,peptide antibiotic
+5894,peptide antibiotic
+5895,phosphonic acid antibiotic
+5896,phosphonic acid antibiotic
+5897,phosphonic acid antibiotic
+5898,phosphonic acid antibiotic
+5899,phosphonic acid antibiotic
+5900,phosphonic acid antibiotic
+5905,aminoglycoside antibiotic
+5734,carbapenem
+639,aminoglycoside antibiotic
+5907,fluoroquinolone antibiotic
+5908,fluoroquinolone antibiotic
+5909,fluoroquinolone antibiotic
+5910,fluoroquinolone antibiotic
+5911,fluoroquinolone antibiotic
+5912,fluoroquinolone antibiotic
+5916,lincosamide antibiotic
+5917,macrolide antibiotic
+5918,aminoglycoside antibiotic
+5919,fluoroquinolone antibiotic
+922,aminoglycoside antibiotic
+924,aminoglycoside antibiotic
+339,aminoglycoside antibiotic
+2751,aminoglycoside antibiotic
+5926,sulfonamide antibiotic
+5975,aminoglycoside antibiotic
+5972,aminoglycoside antibiotic
+5974,aminoglycoside antibiotic
+5962,tetracycline antibiotic
+3340,aminoglycoside antibiotic
+5963,tetracycline antibiotic
+5964,tetracycline antibiotic
+5955,carbapenem
+5956,fluoroquinolone antibiotic
+3338,aminoglycoside antibiotic
+5958,diaminopyrimidine antibiotic
+5959,diaminopyrimidine antibiotic
+5960,diarylquinoline antibiotic
+5966,diaminopyrimidine antibiotic
+5967,aminoglycoside antibiotic
+3943,peptide antibiotic
+1401,macrolide antibiotic
+5745,macrolide antibiotic
+5969,aminoglycoside antibiotic
+5971,peptide antibiotic
+5976,fluoroquinolone antibiotic
+763,phenicol antibiotic
+6001,fluoroquinolone antibiotic
+6003,nitroimidazole antibiotic
+6005,cephalosporin
+6004,diarylquinoline antibiotic
