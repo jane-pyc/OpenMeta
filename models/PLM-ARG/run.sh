@@ -1,0 +1,1 @@
+python plm_arg.py predict -i ../../../src/datasets/Fine-Grained/NCRD-C/NCRD.fasta -o plm_arg_res.tsv --arg-model ./models/arg_model.pkl  --cat-model ./models/cat_model.pkl --cat-index ./models/Category_Index.csv

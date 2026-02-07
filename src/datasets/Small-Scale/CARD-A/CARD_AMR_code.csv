@@ -1,0 +1,1966 @@
+Model ID,AMR Gene Family
+2,CblA beta-lactamase
+5,trimethoprim resistant dihydrofolate reductase dfr
+7,CTX-M beta-lactamase
+10,CARB beta-lactamase
+20,CMY beta-lactamase
+24,Target protecting FusB-type protein conferring resistance to Fusidic acid
+25,CTX-M beta-lactamase
+27,lincosamide nucleotidyltransferase (LNU)
+31,CTX-M beta-lactamase
+35,fosfomycin thiol transferase
+38,APH(3')
+39,AAC(3)
+40,quinolone resistance protein (qnr)
+41,16S rRNA methyltransferase (G1405)
+46,CMY beta-lactamase
+50,SME beta-lactamase
+51,AAC(3)
+58,quinolone resistance protein (qnr)
+60,quinolone resistance protein (qnr)
+63,AAC(6')
+64,CMY beta-lactamase
+69,ANT(3'')
+71,quinolone resistance protein (qnr)
+75,fusidic acid inactivation enzyme
+88,CMY beta-lactamase
+92,CTX-M beta-lactamase
+94,CMY beta-lactamase
+95,CMY beta-lactamase
+98,CMY beta-lactamase
+99,quinolone resistance protein (qnr)
+105,CARB beta-lactamase
+106,chloramphenicol acetyltransferase (CAT)
+110,AAC(6')
+114,trimethoprim resistant dihydrofolate reductase dfr
+116,quinolone resistance protein (qnr)
+120,ANT(3'')
+124,IND beta-lactamase
+128,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+129,fosfomycin thiol transferase
+130,CTX-M beta-lactamase
+131,CTX-M beta-lactamase
+133,rifampin ADP-ribosyltransferase (Arr)
+134,rifampin glycosyltransferase
+135,SME beta-lactamase
+136,CMY beta-lactamase
+137,APH(2'')
+139,quinolone resistance protein (qnr)
+140,AAC(6')
+143,CphA beta-lactamase
+149,ANT(3'')
+150,chloramphenicol acetyltransferase (CAT)
+156,AAC(6')
+157,trimethoprim resistant dihydrofolate reductase dfr
+43,major facilitator superfamily (MFS) antibiotic efflux pump
+17,major facilitator superfamily (MFS) antibiotic efflux pump
+142,major facilitator superfamily (MFS) antibiotic efflux pump
+49,non-erm 23S ribosomal RNA methyltransferase (A1067)
+167,CMY beta-lactamase
+138,major facilitator superfamily (MFS) antibiotic efflux pump
+173,rifampin ADP-ribosyltransferase (Arr)
+174,CfxA beta-lactamase
+175,CTX-M beta-lactamase
+176,CMY beta-lactamase
+179,quinolone resistance protein (qnr)
+189,CTX-M beta-lactamase
+192,CTX-M beta-lactamase
+195,CTX-M beta-lactamase
+197,CTX-M beta-lactamase
+199,SRT beta-lactamase
+205,APH(4)
+206,Fom phosphotransferase family
+208,CMY beta-lactamase
+209,aminoglycoside bifunctional resistance protein
+215,undecaprenyl pyrophosphate related proteins
+218,16S rRNA methyltransferase (A1408)
+221,CMY beta-lactamase
+225,CTX-M beta-lactamase
+232,CphA beta-lactamase
+234,quinolone resistance protein (qnr)
+245,major facilitator superfamily (MFS) antibiotic efflux pump
+246,CTX-M beta-lactamase
+251,APH(3')
+252,APH(9)
+256,CMY beta-lactamase
+261,CMY beta-lactamase
+263,trimethoprim resistant dihydrofolate reductase dfr
+266,quinolone resistance protein (qnr)
+268,CfxA beta-lactamase
+269,CMY beta-lactamase
+271,CMY beta-lactamase
+272,quinolone resistance protein (qnr)
+278,CphA beta-lactamase
+279,CTX-M beta-lactamase
+280,CTX-M beta-lactamase
+281,CMY beta-lactamase
+282,CTX-M beta-lactamase
+283,CMY beta-lactamase
+288,CMY beta-lactamase
+291,APH(3')
+294,CfxA beta-lactamase
+297,CMY beta-lactamase
+300,AAC(6')
+301,CMY beta-lactamase
+304,IND beta-lactamase
+307,CTX-M beta-lactamase
+308,CMY beta-lactamase
+309,CMY beta-lactamase
+311,IND beta-lactamase
+316,CTX-M beta-lactamase
+321,CTX-M beta-lactamase
+323,ANT(3'')
+324,quinolone resistance protein (qnr)
+250,major facilitator superfamily (MFS) antibiotic efflux pump
+299,CepS beta-lactamase
+329,CTX-M beta-lactamase
+333,CARB beta-lactamase
+340,CMY beta-lactamase
+345,ATP-binding cassette (ABC) antibiotic efflux pump
+346,quinolone resistance protein (qnr)
+353,quinolone resistance protein (qnr)
+354,quinolone resistance protein (qnr)
+358,quinolone resistance protein (qnr)
+360,AAC(6')
+362,CTX-M beta-lactamase
+364,CMY beta-lactamase
+367,CTX-M beta-lactamase
+368,CARB beta-lactamase
+372,major facilitator superfamily (MFS) antibiotic efflux pump
+375,major facilitator superfamily (MFS) antibiotic efflux pump
+376,lincosamide nucleotidyltransferase (LNU)
+380,CTX-M beta-lactamase
+381,quinolone resistance protein (qnr)
+382,quinolone resistance protein (qnr)
+384,APH(2'')
+387,resistance-nodulation-cell division (RND) antibiotic efflux pump
+388,quinolone resistance protein (qnr)
+393,quinolone resistance protein (qnr)
+396,sulfonamide resistant sul
+403,trimethoprim resistant dihydrofolate reductase dfr
+410,AAC(3)
+411,quinolone resistance protein (qnr)
+417,quinolone resistance protein (qnr)
+420,CTX-M beta-lactamase
+426,ANT(6)
+444,AAC(6')
+446,chloramphenicol acetyltransferase (CAT)
+448,trimethoprim resistant dihydrofolate reductase dfr
+452,quinolone resistance protein (qnr)
+459,CTX-M beta-lactamase
+460,CMY beta-lactamase
+463,CTX-M beta-lactamase
+466,CTX-M beta-lactamase
+467,CARB beta-lactamase
+474,trimethoprim resistant dihydrofolate reductase dfr
+477,chloramphenicol acetyltransferase (CAT)
+478,AAC(3)
+484,quinolone resistance protein (qnr)
+458,major facilitator superfamily (MFS) antibiotic efflux pump
+402,major facilitator superfamily (MFS) antibiotic efflux pump
+395,blaF family beta-lactamase
+473,macrolide phosphotransferase (MPH)
+486,major facilitator superfamily (MFS) antibiotic efflux pump
+487,ATP-binding cassette (ABC) antibiotic efflux pump
+495,CMY beta-lactamase
+389,tetracycline-resistant ribosomal protection protein
+498,quinolone resistance protein (qnr)
+501,AAC(3)
+502,ANT(3'')
+503,CTX-M beta-lactamase
+507,major facilitator superfamily (MFS) antibiotic efflux pump
+508,major facilitator superfamily (MFS) antibiotic efflux pump
+510,CTX-M beta-lactamase
+511,trimethoprim resistant dihydrofolate reductase dfr
+512,CTX-M beta-lactamase
+513,CARB beta-lactamase
+517,quinolone resistance protein (qnr)
+524,trimethoprim resistant dihydrofolate reductase dfr
+525,CMY beta-lactamase
+532,CTX-M beta-lactamase
+533,CARB beta-lactamase
+539,quinolone resistance protein (qnr)
+540,major facilitator superfamily (MFS) antibiotic efflux pump
+544,AAC(6')
+547,rifampin ADP-ribosyltransferase (Arr)
+548,quinolone resistance protein (qnr)
+550,CMY beta-lactamase
+551,CTX-M beta-lactamase
+552,quinolone resistance protein (qnr)
+558,major facilitator superfamily (MFS) antibiotic efflux pump
+567,CTX-M beta-lactamase
+568,CTX-M beta-lactamase
+574,AAC(6')
+575,AAC(3)
+577,quinolone resistance protein (qnr)
+581,quinolone resistance protein (qnr)
+584,ANT(3'')
+590,IND beta-lactamase
+591,CTX-M beta-lactamase
+594,quinolone resistance protein (qnr)
+598,trimethoprim resistant dihydrofolate reductase dfr
+601,trimethoprim resistant dihydrofolate reductase dfr
+603,major facilitator superfamily (MFS) antibiotic efflux pump
+606,IMI beta-lactamase
+609,major facilitator superfamily (MFS) antibiotic efflux pump
+618,multidrug and toxic compound extrusion (MATE) transporter
+625,quinolone resistance protein (qnr)
+628,chloramphenicol acetyltransferase (CAT)
+636,CMY beta-lactamase
+641,CARB beta-lactamase
+642,ANT(3'')
+645,methicillin resistant PBP2
+650,ANT(3'')
+652,major facilitator superfamily (MFS) antibiotic efflux pump
+531,streptothricin acetyltransferase (SAT)
+640,major facilitator superfamily (MFS) antibiotic efflux pump
+516,pmr phosphoethanolamine transferase
+492,chloramphenicol acetyltransferase (CAT)
+653,AAC(3)
+654,trimethoprim resistant dihydrofolate reductase dfr
+658,CMY beta-lactamase
+659,AAC(6')
+664,CMY beta-lactamase
+666,CTX-M beta-lactamase
+668,CTX-M beta-lactamase
+670,IND beta-lactamase
+671,CTX-M beta-lactamase
+672,CMY beta-lactamase
+676,AAC(6')
+680,CMY beta-lactamase
+682,quinolone resistance protein (qnr)
+683,CMY beta-lactamase
+687,APH(3')
+689,CTX-M beta-lactamase
+694,CTX-M beta-lactamase
+695,CMY beta-lactamase
+699,quinolone resistance protein (qnr)
+702,CTX-M beta-lactamase
+703,chloramphenicol phosphotransferase
+705,CMY beta-lactamase
+706,APH(7'')
+708,CTX-M beta-lactamase
+710,trimethoprim resistant dihydrofolate reductase dfr
+712,chloramphenicol acetyltransferase (CAT)
+713,CTX-M beta-lactamase
+714,trimethoprim resistant dihydrofolate reductase dfr
+716,quinolone resistance protein (qnr)
+717,CTX-M beta-lactamase
+719,CMY beta-lactamase
+724,AAC(6')
+726,BlaZ beta-lactamase
+729,CTX-M beta-lactamase
+730,AAC(6')
+736,rifampin ADP-ribosyltransferase (Arr)
+738,AAC(6')
+740,quinolone resistance protein (qnr)
+742,AAC(3)
+743,rifampin ADP-ribosyltransferase (Arr)
+745,CMY beta-lactamase
+746,AAC(2')
+747,quinolone resistance protein (qnr)
+754,CTX-M beta-lactamase
+757,CMY beta-lactamase
+762,CTX-M beta-lactamase
+765,quinolone resistance protein (qnr)
+771,CMY beta-lactamase
+775,CMY beta-lactamase
+780,CARB beta-lactamase
+781,quinolone resistance protein (qnr)
+784,AAC(6')
+787,trimethoprim resistant dihydrofolate reductase dfr
+790,CMY beta-lactamase
+796,rifampin monooxygenase
+799,CTX-M beta-lactamase
+800,CTX-M beta-lactamase
+801,quinolone resistance protein (qnr)
+802,quinolone resistance protein (qnr)
+803,CphA beta-lactamase
+804,tetracycline-resistant ribosomal protection protein
+809,lincosamide nucleotidyltransferase (LNU)
+810,methicillin resistant PBP2
+812,CMY beta-lactamase
+817,CTX-M beta-lactamase
+819,CTX-M beta-lactamase
+820,resistance-nodulation-cell division (RND) antibiotic efflux pump
+822,quinolone resistance protein (qnr)
+774,tetracycline inactivation enzyme
+827,quinolone resistance protein (qnr)
+833,CfxA beta-lactamase
+834,fosfomycin thiol transferase
+835,APH(3')
+838,CTX-M beta-lactamase
+839,CMY beta-lactamase
+840,CMY beta-lactamase
+841,CTX-M beta-lactamase
+843,quinolone resistance protein (qnr)
+844,CMY beta-lactamase
+847,CTX-M beta-lactamase
+852,quinolone resistance protein (qnr)
+854,CMY beta-lactamase
+3302,tetracycline inactivation enzyme
+858,IND beta-lactamase
+864,CMY beta-lactamase
+875,trimethoprim resistant dihydrofolate reductase dfr
+878,CTX-M beta-lactamase
+880,APH(6)
+884,CTX-M beta-lactamase
+886,IND beta-lactamase
+889,CMY beta-lactamase
+891,quinolone resistance protein (qnr)
+892,APH(6)
+894,CMY beta-lactamase
+896,CTX-M beta-lactamase
+903,APH(2'')
+904,16S rRNA methyltransferase (G1405)
+905,CTX-M beta-lactamase
+906,CARB beta-lactamase
+907,major facilitator superfamily (MFS) antibiotic efflux pump
+908,CTX-M beta-lactamase
+911,CMY beta-lactamase
+914,ANT(6)
+925,AAC(3)
+928,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+948,methicillin resistant PBP2
+938,quinolone resistance protein (qnr)
+939,CTX-M beta-lactamase
+944,ATP-binding cassette (ABC) antibiotic efflux pump
+946,quinolone resistance protein (qnr)
+949,CTX-M beta-lactamase
+952,sulfonamide resistant sul
+954,APH(3')
+963,CMY beta-lactamase
+967,AAC(6')
+870,major facilitator superfamily (MFS) antibiotic efflux pump
+910,rifampin phosphotransferase
+945,major facilitator superfamily (MFS) antibiotic efflux pump
+900,major facilitator superfamily (MFS) antibiotic efflux pump
+957,major facilitator superfamily (MFS) antibiotic efflux pump
+842,pmr phosphoethanolamine transferase
+882,RCP beta-lactamase
+971,major facilitator superfamily (MFS) antibiotic efflux pump
+972,CMY beta-lactamase
+974,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+975,quinolone resistance protein (qnr)
+976,CTX-M beta-lactamase
+987,CTX-M beta-lactamase
+991,macrolide esterase
+993,AAC(6')
+996,CMY beta-lactamase
+1000,AAC(6')
+1002,AAC(6')
+1009,IND beta-lactamase
+1013,APH(2'')
+1017,CTX-M beta-lactamase
+1018,APH(3')
+1021,CTX-M beta-lactamase
+1024,AAC(6')
+1029,CMY beta-lactamase
+1031,APH(6)
+1034,quinolone resistance protein (qnr)
+1037,major facilitator superfamily (MFS) antibiotic efflux pump
+1038,major facilitator superfamily (MFS) antibiotic efflux pump
+1039,trimethoprim resistant dihydrofolate reductase dfr
+1044,CTX-M beta-lactamase
+1047,chloramphenicol acetyltransferase (CAT)
+1048,quinolone resistance protein (qnr)
+1057,CTX-M beta-lactamase
+1059,APH(9)
+1063,quinolone resistance protein (qnr)
+1064,CTX-M beta-lactamase
+1068,AAC(6')
+1070,sulfonamide resistant sul
+1082,CTX-M beta-lactamase
+1086,CMY beta-lactamase
+1089,CMY beta-lactamase
+1093,AAC(6')
+1094,CARB beta-lactamase
+1101,CTX-M beta-lactamase
+1102,quinolone resistance protein (qnr)
+1103,CMY beta-lactamase
+1105,AAC(3)
+1111,AAC(6')
+1113,ANT(6)
+1116,rifampin ADP-ribosyltransferase (Arr)
+1120,IMI beta-lactamase
+1121,APH(3')
+1127,CTX-M beta-lactamase
+1129,CMY beta-lactamase
+1131,AAC(3)
+1027,major facilitator superfamily (MFS) antibiotic efflux pump
+1092,major facilitator superfamily (MFS) antibiotic efflux pump
+988,major facilitator superfamily (MFS) antibiotic efflux pump
+1006,major facilitator superfamily (MFS) antibiotic efflux pump
+1050,AAC(6')
+1139,trimethoprim resistant dihydrofolate reductase dfr
+1140,CMY beta-lactamase
+1142,trimethoprim resistant dihydrofolate reductase dfr
+1145,CTX-M beta-lactamase
+1147,CMY beta-lactamase
+1149,AER beta-lactamase
+1150,quinolone resistance protein (qnr)
+1152,CTX-M beta-lactamase
+1160,quinolone resistance protein (qnr)
+1162,ANT(3'')
+1163,CMY beta-lactamase
+1167,major facilitator superfamily (MFS) antibiotic efflux pump
+1170,CMY beta-lactamase
+1174,quinolone resistance protein (qnr)
+1178,CMY beta-lactamase
+1182,CTX-M beta-lactamase
+1201,CARB beta-lactamase
+1202,CTX-M beta-lactamase
+1209,quinolone resistance protein (qnr)
+1210,ATP-binding cassette (ABC) antibiotic efflux pump
+1215,fosC phosphotransferase family
+1227,ANT(3'')
+1228,CMY beta-lactamase
+1229,CTX-M beta-lactamase
+1230,CTX-M beta-lactamase
+1235,AAC(6')
+1236,CMY beta-lactamase
+1242,ANT(3'')
+1243,macrolide phosphotransferase (MPH)
+1246,AAC(2')
+1247,CMY beta-lactamase
+1250,CTX-M beta-lactamase
+1251,CTX-M beta-lactamase
+1254,CTX-M beta-lactamase
+1257,quinolone resistance protein (qnr)
+1260,APH(3')
+1261,major facilitator superfamily (MFS) antibiotic efflux pump
+1263,quinolone resistance protein (qnr)
+1266,ANT(4')
+1267,quinolone resistance protein (qnr)
+1268,CMY beta-lactamase
+1270,quinolone resistance protein (qnr)
+1271,AAC(6')
+1272,CTX-M beta-lactamase
+1280,quinolone resistance protein (qnr)
+1284,IND beta-lactamase
+1287,CTX-M beta-lactamase
+1292,CTX-M beta-lactamase
+1138,major facilitator superfamily (MFS) antibiotic efflux pump
+1295,chloramphenicol acetyltransferase (CAT)
+1297,CTX-M beta-lactamase
+1299,AAC(6')
+3305,macrolide esterase
+1304,CTX-M beta-lactamase
+1306,IND beta-lactamase
+1171,tetracycline-resistant ribosomal protection protein
+1198,major facilitator superfamily (MFS) antibiotic efflux pump
+1206,major facilitator superfamily (MFS) antibiotic efflux pump
+1223,viomycin phosphotransferase
+1285,streptothricin acetyltransferase (SAT)
+1222,fosfomycin thiol transferase
+1315,resistance-nodulation-cell division (RND) antibiotic efflux pump
+1321,methicillin resistant PBP2
+1183,tetracycline-resistant ribosomal protection protein
+1233,tetracycline-resistant ribosomal protection protein
+1327,AAC(6')
+1329,ANT(4')
+1330,major facilitator superfamily (MFS) antibiotic efflux pump
+1331,CTX-M beta-lactamase
+1332,APH(3')
+1335,quinolone resistance protein (qnr)
+1349,IND beta-lactamase
+1351,quinolone resistance protein (qnr)
+1356,trimethoprim resistant dihydrofolate reductase dfr
+1357,CTX-M beta-lactamase
+1363,CARB beta-lactamase
+1364,CMY beta-lactamase
+1365,AAC(6')
+1366,major facilitator superfamily (MFS) antibiotic efflux pump
+1367,ole glycosyltransferase
+1369,quinolone resistance protein (qnr)
+1370,AAC(6')
+1371,CTX-M beta-lactamase
+1372,ANT(2'')
+1373,CMY beta-lactamase
+1375,CMY beta-lactamase
+1377,CTX-M beta-lactamase
+1378,AAC(3)
+1382,16S rRNA methyltransferase (G1405)
+1383,IMI beta-lactamase
+1386,ANT(9)
+1388,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+1391,CTX-M beta-lactamase
+1392,ANT(3'')
+1397,trimethoprim resistant dihydrofolate reductase dfr
+1400,CTX-M beta-lactamase
+1405,16S rRNA methyltransferase (G1405)
+1407,CMY beta-lactamase
+1409,CMY beta-lactamase
+1414,quinolone resistance protein (qnr)
+1415,AAC(2')
+1420,ANT(3'')
+1425,RbpA bacterial RNA polymerase-binding protein
+1427,resistance-nodulation-cell division (RND) antibiotic efflux pump
+1428,CphA beta-lactamase
+1433,CMY beta-lactamase
+1435,major facilitator superfamily (MFS) antibiotic efflux pump
+1440,CTX-M beta-lactamase
+1443,CARB beta-lactamase
+1444,IND beta-lactamase
+1454,CMY beta-lactamase
+1455,IND beta-lactamase
+1457,CTX-M beta-lactamase
+1459,CTX-M beta-lactamase
+1460,fosfomycin thiol transferase
+1345,major facilitator superfamily (MFS) antibiotic efflux pump
+1464,ANT(3'')
+1469,major facilitator superfamily (MFS) antibiotic efflux pump
+1470,quinolone resistance protein (qnr)
+1338,class A Bacillus anthracis Bla beta-lactamase
+1381,CfiA beta-lactamase
+1342,chloramphenicol acetyltransferase (CAT)
+1316,chloramphenicol acetyltransferase (CAT)
+1473,CTX-M beta-lactamase
+1478,CARB beta-lactamase
+1482,SME beta-lactamase
+1483,AAC(3)
+1486,CARB beta-lactamase
+1489,CMY beta-lactamase
+1491,lincosamide nucleotidyltransferase (LNU)
+1494,CMY beta-lactamase
+1497,trimethoprim resistant dihydrofolate reductase dfr
+1498,CphA beta-lactamase
+1500,APH(6)
+1501,CMY beta-lactamase
+1504,CMY beta-lactamase
+1508,quinolone resistance protein (qnr)
+1512,SME beta-lactamase
+1513,quinolone resistance protein (qnr)
+1516,CMY beta-lactamase
+1518,macrolide esterase
+1526,AAC(6')
+1535,CMY beta-lactamase
+1539,ANT(3'')
+1540,16S rRNA methyltransferase (G1405)
+1543,CMY beta-lactamase
+1544,trimethoprim resistant dihydrofolate reductase dfr
+1548,APH(3')
+1562,ANT(6)
+1563,CTX-M beta-lactamase
+1564,quinolone resistance protein (qnr)
+1567,fosfomycin thiol transferase
+1577,AAC(6')
+1579,quinolone resistance protein (qnr)
+1580,chloramphenicol acetyltransferase (CAT)
+1582,trimethoprim resistant dihydrofolate reductase dfr
+1583,quinolone resistance protein (qnr)
+1585,CMY beta-lactamase
+1586,CTX-M beta-lactamase
+1588,quinolone resistance protein (qnr)
+1590,quinolone resistance protein (qnr)
+1591,CMY beta-lactamase
+1592,trimethoprim resistant dihydrofolate reductase dfr
+1593,CMY beta-lactamase
+1595,methicillin resistant PBP2
+1602,AAC(6')
+1604,CTX-M beta-lactamase
+1605,CphA beta-lactamase
+1606,CTX-M beta-lactamase
+1609,quinolone resistance protein (qnr)
+1611,SME beta-lactamase
+1613,CMY beta-lactamase
+1615,APH(2'')
+1616,CTX-M beta-lactamase
+1619,L1 family beta-lactamase
+1620,CTX-M beta-lactamase
+1505,streptothricin acetyltransferase (SAT)
+1584,major facilitator superfamily (MFS) antibiotic efflux pump
+1624,ATP-binding cassette (ABC) antibiotic efflux pump
+1627,CTX-M beta-lactamase
+1631,CTX-M beta-lactamase
+1632,CTX-M beta-lactamase
+1633,chloramphenicol acetyltransferase (CAT)
+1480,EXO beta-lactamase
+1634,CMY beta-lactamase
+1636,quinolone resistance protein (qnr)
+1638,CMY beta-lactamase
+1643,pmr phosphoethanolamine transferase
+1648,CTX-M beta-lactamase
+1650,CMY beta-lactamase
+1651,AAC(6')
+1553,tetracycline-resistant ribosomal protection protein
+1653,AAC(6')
+1656,CTX-M beta-lactamase
+1657,AAC(6')
+1661,CARB beta-lactamase
+1668,CMY beta-lactamase
+1673,quinolone resistance protein (qnr)
+1674,AAC(6')
+1675,CTX-M beta-lactamase
+1680,ATP-binding cassette (ABC) antibiotic efflux pump
+1681,APH(4)
+1682,ANT(3'')
+1683,quinolone resistance protein (qnr)
+1688,CTX-M beta-lactamase
+1691,CMY beta-lactamase
+1703,fosfomycin thiol transferase
+1704,CMY beta-lactamase
+1707,quinolone resistance protein (qnr)
+1711,AQU beta-lactamase
+1720,major facilitator superfamily (MFS) antibiotic efflux pump
+1729,CTX-M beta-lactamase
+1731,macrolide phosphotransferase (MPH)
+1734,IND beta-lactamase
+1737,ANT(4')
+1738,CTX-M beta-lactamase
+1744,major facilitator superfamily (MFS) antibiotic efflux pump
+1747,CMY beta-lactamase
+1755,CTX-M beta-lactamase
+1756,CMY beta-lactamase
+1757,major facilitator superfamily (MFS) antibiotic efflux pump
+1760,quinolone resistance protein (qnr)
+1762,ANT(3'')
+1768,CTX-M beta-lactamase
+1769,CTX-M beta-lactamase
+1772,ANT(3'')
+1774,CTX-M beta-lactamase
+1775,quinolone resistance protein (qnr)
+1779,CTX-M beta-lactamase
+1773,major facilitator superfamily (MFS) antibiotic efflux pump
+1781,AAC(2')
+1789,quinolone resistance protein (qnr)
+1677,CepA beta-lactamase
+1687,CphA beta-lactamase
+1752,multidrug and toxic compound extrusion (MATE) transporter
+1794,tunicamycin resistance protein
+1796,CMY beta-lactamase
+1801,AAC(6')
+1803,quinolone resistance protein (qnr)
+1809,quinolone resistance protein (qnr)
+1811,CARB beta-lactamase
+1692,tetracycline-resistant ribosomal protection protein
+1708,tetracycline-resistant ribosomal protection protein
+1815,CTX-M beta-lactamase
+1820,undecaprenyl pyrophosphate related proteins
+1821,AAC(6')
+1824,ole glycosyltransferase
+1829,CMY beta-lactamase
+1830,APH(3'')
+1831,AAC(6')
+1832,quinolone resistance protein (qnr)
+1837,CTX-M beta-lactamase
+1839,ANT(3'')
+1840,CMY beta-lactamase
+1842,IMI beta-lactamase
+1843,16S rRNA methyltransferase (G1405)
+1846,CTX-M beta-lactamase
+1847,major facilitator superfamily (MFS) antibiotic efflux pump
+1848,CTX-M beta-lactamase
+1850,Fom phosphotransferase family
+1852,16S rRNA methyltransferase (G1405)
+1854,16S rRNA methyltransferase (G1405)
+1855,CTX-M beta-lactamase
+1856,quinolone resistance protein (qnr)
+1859,quinolone resistance protein (qnr)
+1864,CMY beta-lactamase
+1867,CTX-M beta-lactamase
+1873,lincosamide nucleotidyltransferase (LNU)
+1877,CMY beta-lactamase
+1878,SRT beta-lactamase
+1879,AAC(3)
+1884,CTX-M beta-lactamase
+1891,AAC(6')
+1895,CfxA beta-lactamase
+1901,CTX-M beta-lactamase
+1906,CTX-M beta-lactamase
+1909,AAC(6')
+1910,CTX-M beta-lactamase
+1911,AAC(6')
+1913,trimethoprim resistant dihydrofolate reductase dfr
+1915,CMY beta-lactamase
+1918,ANT(9)
+1921,macrolide esterase
+1923,APH(3'')
+1926,CMY beta-lactamase
+1930,CTX-M beta-lactamase
+1934,lincosamide nucleotidyltransferase (LNU)
+1936,CTX-M beta-lactamase
+1939,AAC(6')
+1940,quinolone resistance protein (qnr)
+1917,major facilitator superfamily (MFS) antibiotic efflux pump
+1835,major facilitator superfamily (MFS) antibiotic efflux pump
+1808,major facilitator superfamily (MFS) antibiotic efflux pump
+1885,major facilitator superfamily (MFS) antibiotic efflux pump
+1944,CTX-M beta-lactamase
+1946,CTX-M beta-lactamase
+1947,CTX-M beta-lactamase
+1949,CphA beta-lactamase
+1950,rifampin ADP-ribosyltransferase (Arr)
+1956,IMI beta-lactamase
+1971,trimethoprim resistant dihydrofolate reductase dfr
+1977,AAC(6')
+1979,fosfomycin thiol transferase
+1987,quinolone resistance protein (qnr)
+1988,CMY beta-lactamase
+1990,CMY beta-lactamase
+1992,trimethoprim resistant dihydrofolate reductase dfr
+1993,quinolone resistance protein (qnr)
+1995,AAC(6')
+1998,CTX-M beta-lactamase
+2005,CTX-M beta-lactamase
+2009,ANT(3'')
+2010,CTX-M beta-lactamase
+2011,quinolone resistance protein (qnr)
+2017,CTX-M beta-lactamase
+2018,CMY beta-lactamase
+2022,CTX-M beta-lactamase
+2027,CMY beta-lactamase
+2028,quinolone resistance protein (qnr)
+2030,AAC(3)
+2032,CTX-M beta-lactamase
+2039,CARB beta-lactamase
+2042,IND beta-lactamase
+2043,ANT(3'')
+2044,quinolone resistance protein (qnr)
+2049,quinolone resistance protein (qnr)
+2051,trimethoprim resistant dihydrofolate reductase dfr
+2052,APH(3'')
+2053,trimethoprim resistant dihydrofolate reductase dfr
+2058,major facilitator superfamily (MFS) antibiotic efflux pump
+2060,fosC phosphotransferase family
+2062,macrolide phosphotransferase (MPH)
+2063,BlaZ beta-lactamase
+2065,CMY beta-lactamase
+2071,AAC(6')
+2079,16S rRNA methyltransferase (G1405)
+2081,ATP-binding cassette (ABC) antibiotic efflux pump
+2087,ANT(3'')
+2110,CARB beta-lactamase
+2112,ATP-binding cassette (ABC) antibiotic efflux pump
+2114,APH(3')
+2117,AAC(6')
+2134,CMY beta-lactamase
+29,sulfonamide resistant dihydropteroate synthase folP
+1994,gimA family macrolide glycosyltransferase
+2003,major facilitator superfamily (MFS) antibiotic efflux pump
+2046,major facilitator superfamily (MFS) antibiotic efflux pump
+1969,ATP-binding cassette (ABC) antibiotic efflux pump
+2002,chloramphenicol acetyltransferase (CAT)
+111,aminocoumarin resistant gyrB
+335,fluoroquinolone resistant parE
+462,daptomycin resistant pgsA
+489,antibiotic resistant gidB
+1942,BJP beta-lactamase
+2014,pmr phosphoethanolamine transferase
+196,ethambutol resistant embB
+794,daptomycin-resistant beta prime subunit of RNA polymerase (rpoC)
+851,Pyrazinamide resistant pncA
+984,fluoroquinolone resistant gyrA
+1166,fluoroquinolone resistant gyrA
+1175,daptomycin resistant cls
+1991,ATP-binding cassette (ABC) antibiotic efflux pump
+2020,tetracycline-resistant ribosomal protection protein
+2037,tetracycline-resistant ribosomal protection protein
+1176,isoniazid resistant katG
+1197,antibiotic-resistant rpsL
+1301,daptomycin resistant cls
+1339,ethambutol resistant embR
+1354,ethambutol resistant embA
+1360,aminocoumarin resistant gyrB
+1574,isoniazid resistant inhA
+1822,aminocoumarin resistant gyrB
+1849,Antibiotic resistant tlyA
+1935,fluoroquinolone resistant gyrA
+1943,antibiotic resistant kasA
+2068,16s rRNA with mutation conferring resistance to peptide antibiotics
+2070,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2076,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2137,elfamycin resistant EF-Tu
+2158,elfamycin resistant EF-Tu
+2078,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2124,elfamycin resistant EF-Tu
+1545,fluoroquinolone resistant gyrA
+1055,fluoroquinolone resistant parE
+1721,dapsone resistant dihydropteroate synthase folP
+100,ethionamide resistant ethA
+1323,fluoroquinolone resistant parE
+1135,aminocoumarin resistant parE
+570,sulfonamide resistant dihydropteroate synthase folP
+2116,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2147,elfamycin resistant EF-Tu
+2131,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+3301,lincosamide nucleotidyltransferase (LNU)
+1558,defensin resistant mprF
+821,rifamycin-resistant arabinosyltransferase
+1001,daptomycin resistant mprF
+1203,antibiotic resistant ndh
+1432,ethambutol resistant embC
+1710,fluoroquinolone resistant gyrB
+2069,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2073,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2074,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2109,fluoroquinolone resistant gyrB
+2077,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+212,fluoroquinolone resistant parC
+535,fluoroquinolone resistant gyrB
+36,fluoroquinolone resistant gyrA
+1696,fluoroquinolone resistant gyrB
+2085,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2097,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2113,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2129,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2133,16s rRNA with mutation conferring resistance to peptide antibiotics
+2152,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2192,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2193,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2194,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2195,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2196,fluoroquinolone resistant gyrA
+2093,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2143,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2132,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2127,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2154,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2122,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2128,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2111,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2084,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2105,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2155,16S rRNA with mutation conferring resistance to tetracycline derivatives
+2100,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2091,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2090,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2126,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2198,fluoroquinolone resistant parE
+2136,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2140,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2146,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2157,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+1450,fluoroquinolone resistant parC
+2083,fluoroquinolone resistant parC
+2096,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2145,16S rRNA with mutation conferring resistance to tetracycline derivatives
+2102,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2149,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2106,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2088,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2141,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2099,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2142,16s rRNA with mutation conferring resistance to peptide antibiotics
+2216,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2217,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2191,AAC(6')
+2228,subclass B3 PEDO beta-lactamase
+2229,subclass B3 PEDO beta-lactamase
+2230,subclass B1 PEDO beta-lactamase
+2231,CPS beta-lactamase
+2232,ESP beta-lactamase
+2233,MSI beta-lactamase
+2234,MSI-OXA family beta-lactamase
+2235,SPG beta-lactamase
+3586,FONA beta-lactamase
+2240,vanJ membrane protein
+2248,Target protecting FusB-type protein conferring resistance to Fusidic acid
+2249,Acinetobacter mutant Lpx gene conferring resistance to colistin
+2251,Acinetobacter mutant Lpx gene conferring resistance to colistin
+2257,elfamycin resistant EF-Tu
+2259,macrolide phosphotransferase (MPH)
+2261,lincosamide nucleotidyltransferase (LNU)
+2264,ATP-binding cassette (ABC) antibiotic efflux pump
+3320,quinolone resistance protein (qnr)
+2279,defensin resistant mprF
+2281,defensin resistant mprF
+2282,defensin resistant mprF
+2283,defensin resistant mprF
+2276,antibiotic-resistant isoleucyl-tRNA synthetase (ileS)
+2284,antibiotic-resistant murA transferase
+2290,antibiotic-resistant murA transferase
+2277,macrolide phosphotransferase (MPH)
+3365,major facilitator superfamily (MFS) antibiotic efflux pump
+2250,Target protecting FusB-type protein conferring resistance to Fusidic acid
+651,defensin resistant mprF
+2268,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+2285,antibiotic-resistant murA transferase
+3314,ADC beta-lactamase without carbapenemase activity
+3315,ADC beta-lactamase without carbapenemase activity
+3316,ADC beta-lactamase without carbapenemase activity
+3310,ADC beta-lactamase without carbapenemase activity
+2298,SPM beta-lactamase
+3317,ADC beta-lactamase without carbapenemase activity
+2286,antibiotic-resistant murA transferase
+3321,AAC(3)
+2288,antibiotic resistant ndh
+2310,elfamycin resistant EF-Tu
+2294,fluoroquinolone resistant gyrA
+2314,fluoroquinolone resistant gyrA
+2305,daptomycin resistant gshF
+2301,daptomycin resistant YybT
+3583,FAR beta-lactamase
+3318,ADC beta-lactamase without carbapenemase activity
+3319,AAC(6')
+3592,FRI beta-lactamase
+2331,kdpDE
+2335,ADC beta-lactamase without carbapenemase activity
+3322,AAC(3)
+3323,quinolone resistance protein (qnr)
+4253,ADC beta-lactamases pending classification for carbapenemase activity
+2293,daptomycin resistant pgsA
+2299,daptomycin resistant walK
+2315,fluoroquinolone resistant parC
+3328,AAC(6')
+3332,ADC beta-lactamase without carbapenemase activity
+3333,ADC beta-lactamase without carbapenemase activity
+3334,AAC(6')
+3335,quinolone resistance protein (qnr)
+3336,quinolone resistance protein (qnr)
+3339,trimethoprim resistant dihydrofolate reductase dfr
+3343,trimethoprim resistant dihydrofolate reductase dfr
+3344,trimethoprim resistant dihydrofolate reductase dfr
+3346,AQU beta-lactamase
+2373,antibiotic-resistant UhpT
+2372,antibiotic-resistant GlpT
+2334,ADC beta-lactamase without carbapenemase activity
+2336,ADC beta-lactamase without carbapenemase activity
+2337,ADC beta-lactamase without carbapenemase activity
+2339,ADC beta-lactamase without carbapenemase activity
+2340,ADC beta-lactamase without carbapenemase activity
+2341,ADC beta-lactamase without carbapenemase activity
+2338,ADC beta-lactamase without carbapenemase activity
+2342,ADC beta-lactamase without carbapenemase activity
+2374,antibiotic-resistant UhpT
+2376,antibiotic-resistant UhpT
+2379,antibiotic-resistant cya adenylate cyclase
+4226,ADC beta-lactamases pending classification for carbapenemase activity
+3325,quinolone resistance protein (qnr)
+2383,ANT(4')
+3331,ADC beta-lactamase without carbapenemase activity
+2404,fluoroquinolone resistant gyrA
+3342,trimethoprim resistant dihydrofolate reductase dfr
+3347,AQU beta-lactamase
+3398,ANT(3'')
+660,fluoroquinolone resistant parC
+2104,fluoroquinolone resistant parC
+2401,fluoroquinolone resistant gyrA
+2402,fluoroquinolone resistant parC
+2403,fluoroquinolone resistant gyrA
+2406,tetracycline-resistant ribosomal protection protein
+2407,fluoroquinolone resistant gyrA
+2410,fluoroquinolone resistant parC
+2395,AAC(2')
+2411,fluoroquinolone resistant gyrA
+2412,fluoroquinolone resistant parC
+3585,FONA beta-lactamase
+3591,FPH beta-lactamase
+2394,lysocin resistant menA
+2380,antibiotic-resistant GlpT
+2378,antibiotic-resistant cya adenylate cyclase
+2462,fluoroquinolone resistant gyrA
+2381,antibiotic-resistant UhpT
+3326,quinolone resistance protein (qnr)
+2423,ATP-binding cassette (ABC) antibiotic efflux pump
+2428,major facilitator superfamily (MFS) antibiotic efflux pump
+2429,major facilitator superfamily (MFS) antibiotic efflux pump
+4254,ADC beta-lactamases pending classification for carbapenemase activity
+2433,major facilitator superfamily (MFS) antibiotic efflux pump
+2436,Van ligase
+3355,chloramphenicol acetyltransferase (CAT)
+3357,chloramphenicol acetyltransferase (CAT)
+3358,chloramphenicol acetyltransferase (CAT)
+3360,chloramphenicol acetyltransferase (CAT)
+3361,lincosamide nucleotidyltransferase (LNU)
+3362,fosfomycin thiol transferase
+3363,MCR phosphoethanolamine transferase
+3364,Target protecting FusB-type protein conferring resistance to Fusidic acid
+3367,major facilitator superfamily (MFS) antibiotic efflux pump
+3369,fosfomycin thiol transferase
+3370,fosfomycin thiol transferase
+3327,AAC(2')
+3371,fosfomycin thiol transferase
+3374,APH(3')
+3391,MCR phosphoethanolamine transferase
+3397,streptothricin acetyltransferase (SAT)
+2144,ethambutol resistant embB
+2476,16S rRNA with mutation conferring resistance to pactamycin
+2478,16S rRNA with mutation conferring resistance to tetracycline derivatives
+2812,23S rRNA with mutation conferring resistance to macrolide antibiotics
+3366,major facilitator superfamily (MFS) antibiotic efflux pump
+3372,fosfomycin thiol transferase
+3376,16S rRNA methyltransferase (G1405)
+3379,APH(3')
+2519,Llm 23S ribosomal RNA methyltransferase
+2520,chloramphenicol acetyltransferase (CAT)
+2521,Bah amidohydrolase
+2522,ATP-binding cassette (ABC) antibiotic efflux pump
+2524,AAC(2')
+2525,AAC(6')
+2527,macrolide phosphotransferase (MPH)
+2528,rifampin phosphotransferase
+2529,cpa acetyltransferase
+3382,ANT(6)
+3384,MCR phosphoethanolamine transferase
+3387,MCR phosphoethanolamine transferase
+3380,vancomycin-resistant beta prime subunit of RNA polymerase (rpoC)
+3381,ANT(3'')
+2517,major facilitator superfamily (MFS) antibiotic efflux pump
+3383,MCR phosphoethanolamine transferase
+3399,ANT(3'')
+2550,fluoroquinolone resistant gyrA
+3373,fosfomycin thiol transferase
+3377,16S rRNA methyltransferase (G1405)
+3385,MCR phosphoethanolamine transferase
+3388,MCR phosphoethanolamine transferase
+3392,MCR phosphoethanolamine transferase
+3484,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins
+3587,FONA beta-lactamase
+3593,FRI beta-lactamase
+3727,isoniazid resistant mshA
+2355,ADC beta-lactamase without carbapenemase activity
+2356,ADC beta-lactamase without carbapenemase activity
+3378,16S rRNA methyltransferase (G1405)
+3386,MCR phosphoethanolamine transferase
+3389,MCR phosphoethanolamine transferase
+3393,MCR phosphoethanolamine transferase
+4227,ADC beta-lactamases pending classification for carbapenemase activity
+3588,FONA beta-lactamase
+3594,FRI beta-lactamase
+3595,FTU beta-lactamase
+4255,ADC beta-lactamases pending classification for carbapenemase activity
+2098,16s rRNA with mutation conferring resistance to peptide antibiotics
+3390,MCR phosphoethanolamine transferase
+3394,MCR phosphoethanolamine transferase
+515,mgt macrolide glycotransferase
+4228,ADC beta-lactamases pending classification for carbapenemase activity
+4229,ADC beta-lactamases pending classification for carbapenemase activity
+3395,MCR phosphoethanolamine transferase
+3589,FONA beta-lactamase
+2646,ATP-binding cassette (ABC) antibiotic efflux pump
+2643,ATP-binding cassette (ABC) antibiotic efflux pump
+2644,ATP-binding cassette (ABC) antibiotic efflux pump
+2645,ATP-binding cassette (ABC) antibiotic efflux pump
+522,major facilitator superfamily (MFS) antibiotic efflux pump
+3396,MCR phosphoethanolamine transferase
+347,SFH beta-lactamase
+2655,small multidrug resistance (SMR) antibiotic efflux pump
+2656,small multidrug resistance (SMR) antibiotic efflux pump
+3590,FONA beta-lactamase
+4256,ADC beta-lactamases pending classification for carbapenemase activity
+2303,major facilitator superfamily (MFS) antibiotic efflux pump
+2348,ADC beta-lactamase without carbapenemase activity
+1240,macrolide phosphotransferase (MPH)
+2267,antibiotic resistant nfsA
+1897,major facilitator superfamily (MFS) antibiotic efflux pump
+2291,antibiotic-resistant murA transferase
+2108,elfamycin resistant EF-Tu
+255,Bleomycin resistant protein
+2755,ANT(3'')
+2349,ADC beta-lactamase without carbapenemase activity
+2350,ADC beta-lactamase without carbapenemase activity
+2351,ADC beta-lactamase without carbapenemase activity
+2352,ADC beta-lactamase without carbapenemase activity
+2353,ADC beta-lactamase without carbapenemase activity
+3549,ARL Beta-lactamase
+3559,BCL Beta-lactamase
+3565,BRO Beta-lactamase
+2750,APH(3')
+2749,lincosamide nucleotidyltransferase (LNU)
+2752,ANT(3'')
+2754,ANT(3'')
+2354,ADC beta-lactamase without carbapenemase activity
+2758,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2759,resistance-nodulation-cell division (RND) antibiotic efflux pump
+2901,CMY beta-lactamase
+2770,16S rRNA methyltransferase (A1408)
+2771,major facilitator superfamily (MFS) antibiotic efflux pump
+2779,fosfomycin thiol transferase
+2780,fosfomycin thiol transferase
+2782,General Bacterial Porin with reduced permeability to peptide antibiotics
+4257,ADC beta-lactamases pending classification for carbapenemase activity
+2783,General Bacterial Porin with reduced permeability to peptide antibiotics
+3550,ARL Beta-lactamase
+3558,BAT Beta-lactamase
+3560,BES Beta-lactamase
+3566,BRO Beta-lactamase
+2805,23S rRNA with mutation conferring resistance to pleuromutilin antibiotics
+2791,daptomycin resistant CdsA
+2833,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2792,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2794,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2806,23S rRNA with mutation conferring resistance to lincosamide antibiotics
+2807,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2808,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2803,aminosalicylate resistant thymidylate synthase
+2804,aminosalicylate resistant dihydrofolate synthase
+2816,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2811,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2813,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2814,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2815,23S rRNA with mutation conferring resistance to macrolide antibiotics
+4258,ADC beta-lactamases pending classification for carbapenemase activity
+2793,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2802,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2810,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2817,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2819,23S rRNA with mutation conferring resistance to oxazolidinone antibiotics
+2820,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2824,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2825,23S rRNA with mutation conferring resistance to phenicol antibiotics
+2827,aminosalicylate resistant dihydrofolate reductase
+2828,methicillin resistant PBP2
+328,major facilitator superfamily (MFS) antibiotic efflux pump
+2832,AAC(2')
+2837,APH(2'')
+2838,MCR phosphoethanolamine transferase
+2841,23S rRNA with mutation conferring resistance to phenicol antibiotics
+2842,Subclass B1 Vibrio cholerae varG beta-lactamase
+2822,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2846,BUT beta-lactamase
+2343,ADC beta-lactamase without carbapenemase activity
+2344,ADC beta-lactamase without carbapenemase activity
+2345,ADC beta-lactamase without carbapenemase activity
+2347,ADC beta-lactamase without carbapenemase activity
+2346,ADC beta-lactamase without carbapenemase activity
+2357,ADC beta-lactamase without carbapenemase activity
+2358,ADC beta-lactamase without carbapenemase activity
+2359,ADC beta-lactamase without carbapenemase activity
+2360,ADC beta-lactamase without carbapenemase activity
+2361,ADC beta-lactamase without carbapenemase activity
+2362,ADC beta-lactamase without carbapenemase activity
+2363,ADC beta-lactamase without carbapenemase activity
+2364,ADC beta-lactamase without carbapenemase activity
+2365,ADC beta-lactamase without carbapenemase activity
+2366,ADC beta-lactamase without carbapenemase activity
+2367,ADC beta-lactamase without carbapenemase activity
+2368,ADC beta-lactamase without carbapenemase activity
+2370,ADC beta-lactamase without carbapenemase activity
+4230,ADC beta-lactamases pending classification for carbapenemase activity
+2371,ADC beta-lactamase without carbapenemase activity
+2377,antibiotic-resistant ptsI phosphotransferase
+2850,triclosan resistant gyrA
+2851,triclosan resistant gyrA
+2873,chloramphenicol acetyltransferase (CAT)
+2875,sulfonamide resistant sul
+4259,ADC beta-lactamases pending classification for carbapenemase activity
+2880,major facilitator superfamily (MFS) antibiotic efflux pump
+2881,major facilitator superfamily (MFS) antibiotic efflux pump
+2882,tetracycline-resistant ribosomal protection protein
+2888,HERA beta-lactamase
+2890,chloramphenicol acetyltransferase (CAT)
+2893,chloramphenicol acetyltransferase (CAT)
+2894,chloramphenicol acetyltransferase (CAT)
+2895,chloramphenicol acetyltransferase (CAT)
+2896,chloramphenicol acetyltransferase (CAT)
+2897,chloramphenicol acetyltransferase (CAT)
+2899,chloramphenicol acetyltransferase (CAT)
+1042,chloramphenicol acetyltransferase (CAT)
+2902,intrinsic colistin resistant phosphoethanolamine transferase
+3551,ARL Beta-lactamase
+3561,BIC Beta-lactamase
+3567,CBP beta-lactamase
+3614,HERA beta-lactamase
+3701,sulfonamide resistant dihydropteroate synthase folP
+3552,ARL Beta-lactamase
+3562,BIL Beta-lactamase
+3568,CGA beta-lactamase
+3553,ARL Beta-lactamase
+3563,BKC Beta-lactamase
+3611,HERA beta-lactamase
+3613,HERA beta-lactamase
+3554,ARL Beta-lactamase
+3564,BPU Beta-lactamase
+3612,HERA beta-lactamase
+3615,HERA beta-lactamase
+3616,HERA beta-lactamase
+3216,macrolide phosphotransferase (MPH)
+3617,IMI beta-lactamase
+3579,CMY beta-lactamase
+4231,ADC beta-lactamases pending classification for carbapenemase activity
+4232,ADC beta-lactamases pending classification for carbapenemase activity
+3654,Zoliflodacin resistant gyrB
+3574,CKO beta-lactamase
+2397,lipid A phosphatase
+3656,fluoroquinolone resistant gyrA
+3575,CME beta-lactamase
+3577,CMY beta-lactamase
+3217,macrolide phosphotransferase (MPH)
+3651,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+3329,fluoroquinolone resistant parC
+3646,23S rRNA with mutation conferring resistance to macrolide antibiotics
+3649,resistance-nodulation-cell division (RND) antibiotic efflux pump
+3013,ADC beta-lactamase with carbapenemase activity
+3576,CMH beta-lactamase
+3578,CMY beta-lactamase
+3076,trimethoprim resistant dihydrofolate reductase dfr
+3580,DES beta-lactamase
+3128,MCR phosphoethanolamine transferase
+3129,MCR phosphoethanolamine transferase
+3130,MCR phosphoethanolamine transferase
+3131,MCR phosphoethanolamine transferase
+3132,MCR phosphoethanolamine transferase
+3133,MCR phosphoethanolamine transferase
+3134,MCR phosphoethanolamine transferase
+3135,MCR phosphoethanolamine transferase
+3136,MCR phosphoethanolamine transferase
+3137,MCR phosphoethanolamine transferase
+3138,MCR phosphoethanolamine transferase
+3139,MCR phosphoethanolamine transferase
+3141,MCR phosphoethanolamine transferase
+3142,MCR phosphoethanolamine transferase
+3143,MCR phosphoethanolamine transferase
+3145,MCR phosphoethanolamine transferase
+3745,23s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2614,macrolide phosphotransferase (MPH)
+3218,macrolide phosphotransferase (MPH)
+3219,macrolide phosphotransferase (MPH)
+3220,macrolide phosphotransferase (MPH)
+3252,23S rRNA with mutation conferring resistance to macrolide antibiotics
+4233,ADC beta-lactamases pending classification for carbapenemase activity
+3285,tetracycline inactivation enzyme
+4260,ADC beta-lactamases pending classification for carbapenemase activity
+4234,ADC beta-lactamases pending classification for carbapenemase activity
+3289,tetracycline inactivation enzyme
+4261,ADC beta-lactamases pending classification for carbapenemase activity
+3255,trimethoprim resistant dihydrofolate reductase dfr
+3256,trimethoprim resistant dihydrofolate reductase dfr
+3257,trimethoprim resistant dihydrofolate reductase dfr
+3258,trimethoprim resistant dihydrofolate reductase dfr
+3259,trimethoprim resistant dihydrofolate reductase dfr
+3260,trimethoprim resistant dihydrofolate reductase dfr
+3262,trimethoprim resistant dihydrofolate reductase dfr
+3263,trimethoprim resistant dihydrofolate reductase dfr
+3264,trimethoprim resistant dihydrofolate reductase dfr
+3267,murG transferase
+3270,trimethoprim resistant dihydrofolate reductase dfr
+3271,intrinsic colistin resistant phosphoethanolamine transferase
+3277,major facilitator superfamily (MFS) antibiotic efflux pump
+3278,major facilitator superfamily (MFS) antibiotic efflux pump
+3284,tetracycline inactivation enzyme
+3287,tetracycline inactivation enzyme
+3288,tetracycline inactivation enzyme
+3290,tetracycline inactivation enzyme
+3292,tetracycline inactivation enzyme
+3293,tetracycline inactivation enzyme
+3582,ERP beta-lactamase
+3750,major facilitator superfamily (MFS) antibiotic efflux pump
+3754,major facilitator superfamily (MFS) antibiotic efflux pump
+3755,major facilitator superfamily (MFS) antibiotic efflux pump
+3759,APH(3')
+3760,CMY beta-lactamase
+3765,fosfomycin thiol transferase
+3766,FRI beta-lactamase
+3767,FRI beta-lactamase
+3768,FRI beta-lactamase
+3769,FRI beta-lactamase
+3770,FRI beta-lactamase
+3771,FRI beta-lactamase
+3772,FRI beta-lactamase
+3773,CTX-M beta-lactamase
+3774,CTX-M beta-lactamase
+3775,CTX-M beta-lactamase
+3776,CTX-M beta-lactamase
+3777,CTX-M beta-lactamase
+3778,CTX-M beta-lactamase
+3780,ADC beta-lactamase without carbapenemase activity
+4262,ADC beta-lactamases pending classification for carbapenemase activity
+3786,major facilitator superfamily (MFS) antibiotic efflux pump
+3787,General Bacterial Porin with reduced permeability to peptide antibiotics
+3788,streptothricin acetyltransferase (SAT)
+3789,Bleomycin resistant protein
+3790,methicillin resistant PBP2
+3791,pmr phosphoethanolamine transferase
+3792,multidrug and toxic compound extrusion (MATE) transporter
+3793,Intrinsic peptide antibiotic resistant Lps
+3794,Intrinsic peptide antibiotic resistant Lps
+3795,pmr phosphoethanolamine transferase
+3801,AAC(3)
+3802,ANT(3'')
+3817,Ribosomal protein mutation conferring resistance to pleuromutilin antibiotics
+3818,23S rRNA with mutation conferring resistance to pleuromutilin antibiotics
+3819,trimethoprim resistant dihydrofolate reductase dfr
+3820,AAC(3)
+3798,tetracycline inactivation enzyme
+3823,major facilitator superfamily (MFS) antibiotic efflux pump
+3828,GPC beta-lactamase
+3829,BlaZ beta-lactamase
+2323,small multidrug resistance (SMR) antibiotic efflux pump
+3830,small multidrug resistance (SMR) antibiotic efflux pump
+3832,fosfomycin thiol transferase
+3834,prothionamide resistant katG
+3836,isoniazid resistant ethA
+3837,prothionamide resistant ethA
+3838,prothionamide resistant mshA
+4235,ADC beta-lactamases pending classification for carbapenemase activity
+3875,PAC beta-lactamase
+3886,fosfomycin thiol transferase
+3887,trimethoprim resistant dihydrofolate reductase dfr
+3890,CMY beta-lactamase
+3891,CMY beta-lactamase
+3892,CMY beta-lactamase
+3893,CMY beta-lactamase
+3894,CMY beta-lactamase
+3896,CMY beta-lactamase
+3897,CMY beta-lactamase
+3898,CMY beta-lactamase
+3899,CMY beta-lactamase
+3900,CMY beta-lactamase
+3901,CMY beta-lactamase
+3902,CMY beta-lactamase
+3903,CMY beta-lactamase
+3904,CMY beta-lactamase
+3905,CMY beta-lactamase
+3906,CMY beta-lactamase
+3907,CMY beta-lactamase
+3908,CMY beta-lactamase
+3909,CMY beta-lactamase
+3910,CMY beta-lactamase
+3911,CMY beta-lactamase
+3912,CMY beta-lactamase
+3913,CMY beta-lactamase
+3914,CMY beta-lactamase
+3915,CMY beta-lactamase
+3916,CMY beta-lactamase
+3917,CMY beta-lactamase
+3918,CMY beta-lactamase
+3919,CMY beta-lactamase
+3920,CMY beta-lactamase
+3931,CMY beta-lactamase
+4236,ADC beta-lactamases pending classification for carbapenemase activity
+4237,ADC beta-lactamases pending classification for carbapenemase activity
+4238,ADC beta-lactamases pending classification for carbapenemase activity
+3932,CMY beta-lactamase
+3933,CMY beta-lactamase
+3934,CMY beta-lactamase
+3935,CMY beta-lactamase
+3936,CMY beta-lactamase
+3937,CMY beta-lactamase
+3938,CMY beta-lactamase
+3939,CMY beta-lactamase
+3940,CMY beta-lactamase
+3941,CMY beta-lactamase
+3942,CMY beta-lactamase
+3966,ADC beta-lactamase without carbapenemase activity
+3967,ADC beta-lactamase without carbapenemase activity
+3968,ADC beta-lactamase without carbapenemase activity
+4239,ADC beta-lactamases pending classification for carbapenemase activity
+4240,ADC beta-lactamases pending classification for carbapenemase activity
+4263,ADC beta-lactamases pending classification for carbapenemase activity
+4264,ADC beta-lactamases pending classification for carbapenemase activity
+4066,trimethoprim resistant dihydrofolate reductase dfr
+4077,trimethoprim resistant dihydrofolate reductase dfr
+4078,trimethoprim resistant dihydrofolate reductase dfr
+4079,trimethoprim resistant dihydrofolate reductase dfr
+4080,trimethoprim resistant dihydrofolate reductase dfr
+4081,trimethoprim resistant dihydrofolate reductase dfr
+4082,trimethoprim resistant dihydrofolate reductase dfr
+4083,trimethoprim resistant dihydrofolate reductase dfr
+4085,trimethoprim resistant dihydrofolate reductase dfr
+4265,ADC beta-lactamases pending classification for carbapenemase activity
+4266,ADC beta-lactamases pending classification for carbapenemase activity
+4122,AAK beta-lactamase
+4176,ADC beta-lactamases pending classification for carbapenemase activity
+4177,ADC beta-lactamases pending classification for carbapenemase activity
+4178,ADC beta-lactamases pending classification for carbapenemase activity
+4179,ADC beta-lactamases pending classification for carbapenemase activity
+4180,ADC beta-lactamases pending classification for carbapenemase activity
+4181,ADC beta-lactamases pending classification for carbapenemase activity
+4182,ADC beta-lactamases pending classification for carbapenemase activity
+4183,ADC beta-lactamases pending classification for carbapenemase activity
+4184,ADC beta-lactamases pending classification for carbapenemase activity
+4185,ADC beta-lactamases pending classification for carbapenemase activity
+4186,ADC beta-lactamases pending classification for carbapenemase activity
+4187,ADC beta-lactamases pending classification for carbapenemase activity
+4188,ADC beta-lactamases pending classification for carbapenemase activity
+4189,ADC beta-lactamases pending classification for carbapenemase activity
+4190,ADC beta-lactamases pending classification for carbapenemase activity
+4191,ADC beta-lactamases pending classification for carbapenemase activity
+4192,ADC beta-lactamases pending classification for carbapenemase activity
+4193,ADC beta-lactamases pending classification for carbapenemase activity
+4194,ADC beta-lactamases pending classification for carbapenemase activity
+4195,ADC beta-lactamases pending classification for carbapenemase activity
+4196,ADC beta-lactamases pending classification for carbapenemase activity
+4197,ADC beta-lactamases pending classification for carbapenemase activity
+4198,ADC beta-lactamases pending classification for carbapenemase activity
+4199,ADC beta-lactamases pending classification for carbapenemase activity
+4200,ADC beta-lactamases pending classification for carbapenemase activity
+4201,ADC beta-lactamases pending classification for carbapenemase activity
+4202,ADC beta-lactamases pending classification for carbapenemase activity
+4203,ADC beta-lactamases pending classification for carbapenemase activity
+4204,ADC beta-lactamases pending classification for carbapenemase activity
+4205,ADC beta-lactamases pending classification for carbapenemase activity
+4206,ADC beta-lactamases pending classification for carbapenemase activity
+4207,ADC beta-lactamases pending classification for carbapenemase activity
+4208,ADC beta-lactamases pending classification for carbapenemase activity
+4209,ADC beta-lactamases pending classification for carbapenemase activity
+4210,ADC beta-lactamases pending classification for carbapenemase activity
+4211,ADC beta-lactamases pending classification for carbapenemase activity
+4212,ADC beta-lactamases pending classification for carbapenemase activity
+4213,ADC beta-lactamases pending classification for carbapenemase activity
+4214,ADC beta-lactamases pending classification for carbapenemase activity
+4215,ADC beta-lactamases pending classification for carbapenemase activity
+4216,ADC beta-lactamases pending classification for carbapenemase activity
+4217,ADC beta-lactamases pending classification for carbapenemase activity
+4218,ADC beta-lactamases pending classification for carbapenemase activity
+4219,ADC beta-lactamases pending classification for carbapenemase activity
+4220,ADC beta-lactamases pending classification for carbapenemase activity
+4221,ADC beta-lactamases pending classification for carbapenemase activity
+4222,ADC beta-lactamases pending classification for carbapenemase activity
+4223,ADC beta-lactamases pending classification for carbapenemase activity
+4224,ADC beta-lactamases pending classification for carbapenemase activity
+4225,ADC beta-lactamases pending classification for carbapenemase activity
+4241,ADC beta-lactamases pending classification for carbapenemase activity
+4242,ADC beta-lactamases pending classification for carbapenemase activity
+4243,ADC beta-lactamases pending classification for carbapenemase activity
+4244,ADC beta-lactamases pending classification for carbapenemase activity
+4245,ADC beta-lactamases pending classification for carbapenemase activity
+4246,ADC beta-lactamases pending classification for carbapenemase activity
+4247,ADC beta-lactamases pending classification for carbapenemase activity
+4248,ADC beta-lactamases pending classification for carbapenemase activity
+4249,ADC beta-lactamases pending classification for carbapenemase activity
+4250,ADC beta-lactamases pending classification for carbapenemase activity
+4251,ADC beta-lactamases pending classification for carbapenemase activity
+4252,ADC beta-lactamases pending classification for carbapenemase activity
+4267,ADC beta-lactamases pending classification for carbapenemase activity
+4268,ADC beta-lactamases pending classification for carbapenemase activity
+4269,ADC beta-lactamases pending classification for carbapenemase activity
+4270,ADC beta-lactamases pending classification for carbapenemase activity
+4271,ADC beta-lactamases pending classification for carbapenemase activity
+4272,ADC beta-lactamases pending classification for carbapenemase activity
+4273,ADC beta-lactamases pending classification for carbapenemase activity
+4274,ADC beta-lactamases pending classification for carbapenemase activity
+4275,ADC beta-lactamases pending classification for carbapenemase activity
+4276,ADC beta-lactamases pending classification for carbapenemase activity
+4277,ADC beta-lactamases pending classification for carbapenemase activity
+4278,ADC beta-lactamases pending classification for carbapenemase activity
+4279,ADC beta-lactamases pending classification for carbapenemase activity
+4280,ADC beta-lactamases pending classification for carbapenemase activity
+4281,ADC beta-lactamases pending classification for carbapenemase activity
+4282,ADC beta-lactamases pending classification for carbapenemase activity
+4283,ADC beta-lactamases pending classification for carbapenemase activity
+4284,ADC beta-lactamases pending classification for carbapenemase activity
+4285,ADC beta-lactamases pending classification for carbapenemase activity
+4286,ADC beta-lactamases pending classification for carbapenemase activity
+4287,ADC beta-lactamases pending classification for carbapenemase activity
+4288,ADC beta-lactamases pending classification for carbapenemase activity
+4289,ADC beta-lactamases pending classification for carbapenemase activity
+4290,ADC beta-lactamases pending classification for carbapenemase activity
+4291,ADC beta-lactamases pending classification for carbapenemase activity
+4292,ADC beta-lactamases pending classification for carbapenemase activity
+4293,ADC beta-lactamases pending classification for carbapenemase activity
+4294,ADC beta-lactamases pending classification for carbapenemase activity
+4295,ADC beta-lactamases pending classification for carbapenemase activity
+4296,ADC beta-lactamases pending classification for carbapenemase activity
+4297,ADC beta-lactamases pending classification for carbapenemase activity
+4298,ADC beta-lactamases pending classification for carbapenemase activity
+4299,ADC beta-lactamases pending classification for carbapenemase activity
+4300,ADC beta-lactamases pending classification for carbapenemase activity
+4301,ADC beta-lactamases pending classification for carbapenemase activity
+4302,ADC beta-lactamases pending classification for carbapenemase activity
+4303,ADC beta-lactamases pending classification for carbapenemase activity
+4304,ADC beta-lactamases pending classification for carbapenemase activity
+4305,ADC beta-lactamases pending classification for carbapenemase activity
+4306,ADC beta-lactamases pending classification for carbapenemase activity
+4307,ADC beta-lactamases pending classification for carbapenemase activity
+4308,ADC beta-lactamases pending classification for carbapenemase activity
+4309,ADC beta-lactamases pending classification for carbapenemase activity
+4310,ADC beta-lactamases pending classification for carbapenemase activity
+4311,ADC beta-lactamases pending classification for carbapenemase activity
+4312,ADC beta-lactamases pending classification for carbapenemase activity
+4313,ADC beta-lactamases pending classification for carbapenemase activity
+4314,ADC beta-lactamases pending classification for carbapenemase activity
+4315,ADC beta-lactamases pending classification for carbapenemase activity
+4316,ADC beta-lactamases pending classification for carbapenemase activity
+4317,ADC beta-lactamases pending classification for carbapenemase activity
+4318,ADC beta-lactamases pending classification for carbapenemase activity
+4319,ADC beta-lactamases pending classification for carbapenemase activity
+4320,ADC beta-lactamases pending classification for carbapenemase activity
+4321,ADC beta-lactamases pending classification for carbapenemase activity
+4322,ADC beta-lactamases pending classification for carbapenemase activity
+4324,ADC beta-lactamases pending classification for carbapenemase activity
+4325,ADC beta-lactamases pending classification for carbapenemase activity
+4326,ADC beta-lactamases pending classification for carbapenemase activity
+4327,ADC beta-lactamases pending classification for carbapenemase activity
+4329,ADC beta-lactamases pending classification for carbapenemase activity
+4330,ADC beta-lactamases pending classification for carbapenemase activity
+4331,ADC beta-lactamases pending classification for carbapenemase activity
+4332,ADC beta-lactamases pending classification for carbapenemase activity
+4333,ADC beta-lactamases pending classification for carbapenemase activity
+4334,ADC beta-lactamases pending classification for carbapenemase activity
+4335,ADC beta-lactamases pending classification for carbapenemase activity
+4336,ADC beta-lactamases pending classification for carbapenemase activity
+4337,ADC beta-lactamases pending classification for carbapenemase activity
+4338,ADC beta-lactamase without carbapenemase activity
+4339,ADC beta-lactamases pending classification for carbapenemase activity
+4340,ADC beta-lactamases pending classification for carbapenemase activity
+4341,ADC beta-lactamases pending classification for carbapenemase activity
+4342,ADC beta-lactamases pending classification for carbapenemase activity
+4343,ADC beta-lactamases pending classification for carbapenemase activity
+4344,ADC beta-lactamases pending classification for carbapenemase activity
+4345,ADC beta-lactamases pending classification for carbapenemase activity
+4346,ADC beta-lactamases pending classification for carbapenemase activity
+4347,ADC beta-lactamases pending classification for carbapenemase activity
+4348,ADC beta-lactamases pending classification for carbapenemase activity
+4349,ADC beta-lactamases pending classification for carbapenemase activity
+4350,ADC beta-lactamases pending classification for carbapenemase activity
+4351,ADC beta-lactamases pending classification for carbapenemase activity
+4352,ADC beta-lactamases pending classification for carbapenemase activity
+4353,ADC beta-lactamases pending classification for carbapenemase activity
+4354,ADC beta-lactamases pending classification for carbapenemase activity
+4355,ADC beta-lactamases pending classification for carbapenemase activity
+4356,AFM beta-lactamase
+4357,AFM beta-lactamase
+4358,ALG11 beta-lactamase
+4359,ALG6 beta-lactamases
+4360,ALI beta-lactamase
+4361,ALI beta-lactamase
+4362,ANA beta-lactamase
+4363,AXC beta-lactamase
+4364,AXC beta-lactamase
+4365,AXC beta-lactamase
+4366,AXC beta-lactamase
+4367,AXC beta-lactamase
+4369,BKC Beta-lactamase
+4406,BSU beta-lactamase
+4407,BUT beta-lactamase
+4408,CAR beta-lactamase
+4409,CARB beta-lactamase
+4410,CARB beta-lactamase
+4411,CARB beta-lactamase
+4412,CARB beta-lactamase
+4413,CARB beta-lactamase
+4414,CARB beta-lactamase
+4415,CARB beta-lactamase
+4416,CARB beta-lactamase
+4417,CARB beta-lactamase
+4418,CARB beta-lactamase
+4419,CARB beta-lactamase
+4420,CARB beta-lactamase
+4421,CARB beta-lactamase
+4422,CARB beta-lactamase
+4423,CARB beta-lactamase
+4424,CARB beta-lactamase
+4425,CARB beta-lactamase
+4426,CARB beta-lactamase
+4427,CARB beta-lactamase
+4428,CARB beta-lactamase
+4429,CARB beta-lactamase
+4430,CARB beta-lactamase
+4431,CARB beta-lactamase
+4432,CARB beta-lactamase
+4433,CARB beta-lactamase
+4434,CARB beta-lactamase
+4435,CARB beta-lactamase
+4436,CARB beta-lactamase
+4437,CARB beta-lactamase
+4438,CARB beta-lactamase
+4439,CARB beta-lactamase
+4440,CDD beta-lactamase
+4441,CDD beta-lactamase
+4442,CepA beta-lactamase
+4443,CepA beta-lactamase
+4444,CepA beta-lactamase
+4445,CfiA beta-lactamase
+4446,CfiA beta-lactamase
+4447,CfiA beta-lactamase
+4448,CfiA beta-lactamase
+4449,CfiA beta-lactamase
+4450,CfiA beta-lactamase
+4451,CfiA beta-lactamase
+4452,CfiA beta-lactamase
+4453,CfiA beta-lactamase
+4454,CfiA beta-lactamase
+4455,CfiA beta-lactamase
+4456,CfiA beta-lactamase
+4457,CfiA beta-lactamase
+4458,CfiA beta-lactamase
+4459,CfiA beta-lactamase
+4460,CfiA beta-lactamase
+4461,CMA beta-lactamase
+4462,CMA beta-lactamase
+4463,CME beta-lactamase
+4464,CMH beta-lactamase
+4465,CMH beta-lactamase
+4466,CMH beta-lactamase
+4467,CMH beta-lactamase
+4468,CMH beta-lactamase
+4469,CMY beta-lactamase
+4470,CMY beta-lactamase
+4471,CMY beta-lactamase
+4472,CMY beta-lactamase
+4473,CMY beta-lactamase
+4474,CMY beta-lactamase
+4475,CMY beta-lactamase
+4476,CMY beta-lactamase
+4477,CMY beta-lactamase
+4478,CMY beta-lactamase
+4479,CMY beta-lactamase
+4480,CRD3 beta-lactamase
+4481,CRH beta-lactamase
+4482,CRH beta-lactamase
+4483,CRH beta-lactamase
+4484,CRP beta-lactamase
+4485,CSA beta-lactamase
+4486,CSA beta-lactamase
+4487,CSP beta-lactamase
+4488,CTX-M beta-lactamase
+4489,CTX-M beta-lactamase
+4490,CTX-M beta-lactamase
+4491,CTX-M beta-lactamase
+4492,CTX-M beta-lactamase
+4493,CTX-M beta-lactamase
+4494,CTX-M beta-lactamase
+4495,CTX-M beta-lactamase
+4496,CTX-M beta-lactamase
+4497,CTX-M beta-lactamase
+4498,CTX-M beta-lactamase
+4499,CTX-M beta-lactamase
+4500,CTX-M beta-lactamase
+4501,CTX-M beta-lactamase
+4502,CTX-M beta-lactamase
+4503,CTX-M beta-lactamase
+4504,CTX-M beta-lactamase
+4505,CTX-M beta-lactamase
+4506,CTX-M beta-lactamase
+4507,CTX-M beta-lactamase
+4508,CTX-M beta-lactamase
+4509,CTX-M beta-lactamase
+4510,CTX-M beta-lactamase
+4511,CTX-M beta-lactamase
+4512,CTX-M beta-lactamase
+4513,CTX-M beta-lactamase
+4514,CTX-M beta-lactamase
+4515,CTX-M beta-lactamase
+4516,CTX-M beta-lactamase
+4517,CTX-M beta-lactamase
+4518,CTX-M beta-lactamase
+4519,CTX-M beta-lactamase
+4520,CTX-M beta-lactamase
+4521,CTX-M beta-lactamase
+4522,CTX-M beta-lactamase
+4523,CTX-M beta-lactamase
+4524,CTX-M beta-lactamase
+4525,CTX-M beta-lactamase
+4526,CTX-M beta-lactamase
+4527,CTX-M beta-lactamase
+4528,CTX-M beta-lactamase
+4529,CTX-M beta-lactamase
+4530,CTX-M beta-lactamase
+4531,CTX-M beta-lactamase
+4532,CTX-M beta-lactamase
+4533,CTX-M beta-lactamase
+4534,CTX-M beta-lactamase
+4535,CTX-M beta-lactamase
+4536,CTX-M beta-lactamase
+4537,CTX-M beta-lactamase
+4538,CTX-M beta-lactamase
+4539,CTX-M beta-lactamase
+4540,CTX-M beta-lactamase
+4541,CTX-M beta-lactamase
+4542,CTX-M beta-lactamase
+4543,CTX-M beta-lactamase
+4544,CTX-M beta-lactamase
+4545,CTX-M beta-lactamase
+4546,CTX-M beta-lactamase
+4547,CTX-M beta-lactamase
+4548,CTX-M beta-lactamase
+4549,CTX-M beta-lactamase
+4550,CTX-M beta-lactamase
+4551,CTX-M beta-lactamase
+4552,CTX-M beta-lactamase
+4553,CTX-M beta-lactamase
+4554,CTX-M beta-lactamase
+4555,CTX-M beta-lactamase
+4556,CTX-M beta-lactamase
+4557,CTX-M beta-lactamase
+4558,CTX-M beta-lactamase
+4559,CTX-M beta-lactamase
+4560,CTX-M beta-lactamase
+4561,CTX-M beta-lactamase
+4562,CTX-M beta-lactamase
+4563,CTX-M beta-lactamase
+4564,CTX-M beta-lactamase
+4565,CTX-M beta-lactamase
+4566,CTX-M beta-lactamase
+4567,CTX-M beta-lactamase
+4568,CTX-M beta-lactamase
+4569,CTX-M beta-lactamase
+4570,CTX-M beta-lactamase
+4571,CTX-M beta-lactamase
+4572,CTX-M beta-lactamase
+4573,CTX-M beta-lactamase
+4574,CTX-M beta-lactamase
+4575,CVI beta-lactamase
+4584,DHT2 beta-lactamase
+4585,EAM beta-lactamase
+4588,EC beta-lactamase
+4589,EC beta-lactamase
+4590,EC beta-lactamase
+4591,EC beta-lactamase
+4592,EC beta-lactamase
+4593,EC beta-lactamase
+4594,EC beta-lactamase
+4595,EC beta-lactamase
+4596,ECM beta-lactamase
+4597,ECV beta-lactamase
+4598,EFM beta-lactamase
+4599,ELM beta-lactamase
+4600,EVM beta-lactamase
+4601,FIA beta-lactamase
+4608,FRI beta-lactamase
+4631,GMB beta-lactamase
+4664,GRD23 beta-lactamase
+4665,GRD33 beta-lactamase
+4666,IMI beta-lactamase
+4667,IMI beta-lactamase
+4668,IMI beta-lactamase
+4669,IMI beta-lactamase
+4670,IMI beta-lactamase
+4671,IMI beta-lactamase
+4672,IMI beta-lactamase
+4673,IMI beta-lactamase
+4674,IMI beta-lactamase
+4675,IMI beta-lactamase
+4676,IMI beta-lactamase
+4677,IMI beta-lactamase
+4678,IMI beta-lactamase
+4713,IND beta-lactamase
+4714,KLUC beta-lactamase
+4715,KLUC beta-lactamase
+4716,KLUC beta-lactamase
+4717,KLUC beta-lactamase
+4718,KLUC beta-lactamase
+4752,LRG beta-lactamase
+4754,LUT beta-lactamase
+4755,LUT beta-lactamase
+4756,LUT beta-lactamase
+4757,LUT beta-lactamase
+4758,LUT beta-lactamase
+4759,LUT beta-lactamase
+4760,MAL beta-lactamase
+4761,MAL beta-lactamase
+4762,MBL beta-lactamase
+4769,MOC beta-lactamase
+4770,MOR beta-lactamase
+4776,MYO beta-lactamase
+4777,MYX beta-lactamase
+4781,OHIO beta-lactamase
+4801,ORR beta-lactamase
+5622,PFM beta-lactamase
+5623,PFM beta-lactamase
+5624,PFM beta-lactamase
+5629,PLN beta-lactamase
+5630,PME beta-lactamase
+5631,POM beta-lactamase
+5632,POM beta-lactamase
+5633,PST beta-lactamase
+5634,PST beta-lactamase
+5636,RAHN beta-lactamase
+5637,RAHN beta-lactamase
+5638,RSA2 beta-lactamase
+5641,RUB beta-lactamase
+5642,SFC beta-lactamase
+5643,SFO beta-lactamase
+5644,SGM beta-lactamase
+5645,SGM beta-lactamase
+5646,SGM beta-lactamase
+5647,SGM beta-lactamase
+5648,SGM beta-lactamase
+5649,SGM beta-lactamase
+5650,SGM beta-lactamase
+5651,SHN beta-lactamase
+5660,SPN79 beta-lactamase
+5661,SPR beta-lactamase
+5662,SPS beta-lactamase
+5663,SPU beta-lactamase
+5664,SRT beta-lactamase
+5665,SST beta-lactamase
+5666,STA beta-lactamase
+5672,TTU beta-lactamase
+5723,YEM beta-lactamase
+5724,ZOG beta-lactamase
+5879,MCR phosphoethanolamine transferase
+5880,MCR phosphoethanolamine transferase
+5728,small multidrug resistance (SMR) antibiotic efflux pump
+5730,small multidrug resistance (SMR) antibiotic efflux pump
+5731,small multidrug resistance (SMR) antibiotic efflux pump
+5733,major facilitator superfamily (MFS) antibiotic efflux pump
+2823,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2891,chloramphenicol acetyltransferase (CAT)
+1524,chloramphenicol acetyltransferase (CAT)
+332,R39 beta-lactamase
+2148,fluoroquinolone resistant gyrB
+2086,16S rRNA with mutation conferring resistance to tetracycline derivatives
+2203,MCR phosphoethanolamine transferase
+2215,fluoroquinolone resistant parC
+2278,antibiotic-resistant isoleucyl-tRNA synthetase (ileS)
+2254,antibiotic resistant fusA
+2256,antibiotic resistant fusE
+2272,daptomycin resistant cls
+2271,antibiotic-resistant isoleucyl-tRNA synthetase (ileS)
+2270,antibiotic-resistant isoleucyl-tRNA synthetase (ileS)
+2080,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+3330,fluoroquinolone resistant gyrA
+2405,fluoroquinolone resistant parC
+5881,MCR phosphoethanolamine transferase
+5882,MCR phosphoethanolamine transferase
+2424,ATP-binding cassette (ABC) antibiotic efflux pump
+2482,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+2518,major facilitator superfamily (MFS) antibiotic efflux pump
+3403,pyrazinamide resistant rpsA
+2287,antibiotic resistant ndh
+2681,antibiotic resistant fabG
+2753,HMB beta-lactamase
+2778,MCR phosphoethanolamine transferase
+2795,MCR phosphoethanolamine transferase
+2818,23S rRNA with mutation conferring resistance to macrolide antibiotics
+2848,MCR phosphoethanolamine transferase
+2849,MCR phosphoethanolamine transferase
+3144,MCR phosphoethanolamine transferase
+5883,MCR phosphoethanolamine transferase
+3268,fluoroquinolone resistant gyrB
+3753,ATP-binding cassette (ABC) antibiotic efflux pump
+5749,major facilitator superfamily (MFS) antibiotic efflux pump
+5752,fluoroquinolone resistant gyrA
+5753,fluoroquinolone resistant gyrB
+5779,nitroimidazole reductase
+5759,Antibiotic resistant Helicobacter pylori nitroreductase
+5763,50S rRNA with mutation conferring resistance to macrolide antibiotics
+5765,fosfomycin thiol transferase
+5766,MCR phosphoethanolamine transferase
+5768,capreomycin phosphotransferase
+5748,major facilitator superfamily (MFS) antibiotic efflux pump
+5747,major facilitator superfamily (MFS) antibiotic efflux pump
+5772,fosfomycin thiol transferase
+5773,fosfomycin thiol transferase
+5774,fosfomycin thiol transferase
+5777,nitroimidazole reductase
+5778,nitroimidazole reductase
+5780,nitroimidazole reductase
+5781,nitroimidazole reductase
+5782,nitroimidazole reductase
+5783,nitroimidazole reductase
+5784,nitroimidazole reductase
+5785,nitroimidazole reductase
+5786,nitroimidazole reductase
+5787,nitroimidazole reductase
+5788,subclass B1 Bacteroides xylanisolvens crx beta-lactamase
+5789,tetracycline-resistant ribosomal protection protein
+5790,tetracycline-resistant ribosomal protection protein
+5791,tetracycline-resistant ribosomal protection protein
+5792,tetracycline-resistant ribosomal protection protein
+5793,tetracycline-resistant ribosomal protection protein
+5794,tetracycline-resistant ribosomal protection protein
+3308,tetracycline inactivation enzyme
+3797,tetracycline inactivation enzyme
+3888,tetracycline inactivation enzyme
+1273,tetracycline-resistant ribosomal protection protein
+5797,tetracycline-resistant ribosomal protection protein
+5798,MCR phosphoethanolamine transferase
+5884,MCR phosphoethanolamine transferase
+5885,MCR phosphoethanolamine transferase
+5886,MCR phosphoethanolamine transferase
+5755,Antibiotic resistant Helicobacter pylori nitroreductase
+1814,aminoglycoside bifunctional resistance protein
+5817,AAC(6')
+5818,KBL beta-lactamase
+5820,rifampin monooxygenase
+5821,rifampin monooxygenase
+5832,MCR phosphoethanolamine transferase
+5819,helicase-like RNA polymerase protection protein
+5833,MCR phosphoethanolamine transferase
+5834,MCR phosphoethanolamine transferase
+5835,MCR phosphoethanolamine transferase
+5836,MCR phosphoethanolamine transferase
+5837,MCR phosphoethanolamine transferase
+5838,MCR phosphoethanolamine transferase
+5839,MCR phosphoethanolamine transferase
+5840,MCR phosphoethanolamine transferase
+5841,MCR phosphoethanolamine transferase
+5842,MCR phosphoethanolamine transferase
+5843,MCR phosphoethanolamine transferase
+5844,MCR phosphoethanolamine transferase
+5845,MCR phosphoethanolamine transferase
+5846,MCR phosphoethanolamine transferase
+5847,MCR phosphoethanolamine transferase
+5848,MCR phosphoethanolamine transferase
+5849,MCR phosphoethanolamine transferase
+5850,MCR phosphoethanolamine transferase
+5851,MCR phosphoethanolamine transferase
+5852,MCR phosphoethanolamine transferase
+5853,MCR phosphoethanolamine transferase
+5854,MCR phosphoethanolamine transferase
+5855,MCR phosphoethanolamine transferase
+5856,MCR phosphoethanolamine transferase
+5857,MCR phosphoethanolamine transferase
+5858,MCR phosphoethanolamine transferase
+5859,MCR phosphoethanolamine transferase
+5860,MCR phosphoethanolamine transferase
+5861,MCR phosphoethanolamine transferase
+5862,MCR phosphoethanolamine transferase
+5863,MCR phosphoethanolamine transferase
+5864,MCR phosphoethanolamine transferase
+5865,MCR phosphoethanolamine transferase
+5866,MCR phosphoethanolamine transferase
+5867,MCR phosphoethanolamine transferase
+5868,MCR phosphoethanolamine transferase
+5869,MCR phosphoethanolamine transferase
+5870,MCR phosphoethanolamine transferase
+5871,MCR phosphoethanolamine transferase
+5872,MCR phosphoethanolamine transferase
+5873,MCR phosphoethanolamine transferase
+5874,MCR phosphoethanolamine transferase
+5875,MCR phosphoethanolamine transferase
+5876,MCR phosphoethanolamine transferase
+5877,MCR phosphoethanolamine transferase
+5878,MCR phosphoethanolamine transferase
+5887,MCR phosphoethanolamine transferase
+5888,MCR phosphoethanolamine transferase
+5889,MCR phosphoethanolamine transferase
+5890,MCR phosphoethanolamine transferase
+5891,MCR phosphoethanolamine transferase
+5892,MCR phosphoethanolamine transferase
+5893,MCR phosphoethanolamine transferase
+5894,MCR phosphoethanolamine transferase
+5895,fosfomycin thiol transferase
+5896,fosfomycin thiol transferase
+5897,fosfomycin thiol transferase
+5898,fosfomycin thiol transferase
+5899,fosfomycin thiol transferase
+5900,fosfomycin thiol transferase
+5905,ANT(9)
+5734,PFM beta-lactamase
+639,AAC(3)
+5907,quinolone resistance protein (qnr)
+5908,quinolone resistance protein (qnr)
+5909,quinolone resistance protein (qnr)
+5910,quinolone resistance protein (qnr)
+5911,quinolone resistance protein (qnr)
+5912,quinolone resistance protein (qnr)
+5916,lincosamide nucleotidyltransferase (LNU)
+5917,macrolide phosphotransferase (MPH)
+5918,kdpDE
+5919,quinolone resistance protein (qnr)
+922,aminoglycoside bifunctional resistance protein
+924,AAC(6')
+339,aminoglycoside bifunctional resistance protein
+2751,APH(3')
+5926,ECF transporter S component
+5975,APH(9)
+5972,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+5974,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics
+5962,major facilitator superfamily (MFS) antibiotic efflux pump
+3340,AAC(6')
+5963,major facilitator superfamily (MFS) antibiotic efflux pump
+5964,major facilitator superfamily (MFS) antibiotic efflux pump
+5955,IND beta-lactamase
+5956,fluoroquinolone resistant gyrA
+3338,AAC(6')
+5958,trimethoprim resistant dihydrofolate reductase dfr
+5959,trimethoprim resistant dihydrofolate reductase dfr
+5960,antibiotic resistant ATP synthase
+5966,trimethoprim resistant dihydrofolate reductase dfr
+5967,ANT(9)
+3943,MCR phosphoethanolamine transferase
+1401,major facilitator superfamily (MFS) antibiotic efflux pump
+5745,major facilitator superfamily (MFS) antibiotic efflux pump
+5969,spectinomycin resistant rpsE
+5971,MCR phosphoethanolamine transferase
+5976,fluoroquinolone resistant gyrA
+763,chloramphenicol acetyltransferase (CAT)
+6001,major facilitator superfamily (MFS) antibiotic efflux pump
+6003,nitroimidazole reductase
+6005,Serine/threonine kinases
+6004,bedaquiline resistant Rv0678

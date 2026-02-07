@@ -1,0 +1,1 @@
+python run_train_clean.py split100
