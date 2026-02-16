@@ -10,7 +10,7 @@ Their respective licenses and terms apply.
 - Upstream repository: https://github.com/y-hwang/gLM
 - License: Harvard Academic and Non-Commercial Research Use Software License and Terms of Use (**NO REDISTRIBUTION**)
 
-**Compliance statement:** This repository does **not** distribute any gLM source code, scripts, model weights, or derivative works. gLM is cited as related work only.
+**Compliance statement:** This repository does not include or redistribute any files copied from the upstream gLM repository. gLM would also be cited as related work.
 
 
 ## HuggingFace Transformers
