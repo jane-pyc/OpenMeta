@@ -9,10 +9,8 @@ This is **OpenMeta**:
 
 ## Licensing & provenance note
 
-See `THIRD_PARTY_NOTICES.md` for third-party license/provenance notes.
-
-In particular, the **gLM** software (Hwang et al., 2024) is distributed under a Harvard academic license that prohibits redistribution.
-Accordingly, this repository does **not** include any gLM source code or derivative works.
+In particular, the **gLM** software (Hwang et al., 2024) is distributed under a Harvard academic license that prohibits redistribution. 
+Accordingly, this repository does not include or redistribute any files copied from the upstream gLM repository. See `THIRD_PARTY_NOTICES.md` for details.
 
 
 ## Usage
